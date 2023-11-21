@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_advancedsearch_search</name>
+   <tag></tag>
+   <elementGuidId>3904c3f6-c553-49dd-a896-fcf0315210cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='complexQuery']/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6b76f85b-adb3-4e3a-8628-30ecb3169e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default pull-right btn-sm</value>
+      <webElementGuid>f63a34b3-8166-4839-b174-f31a795bcaf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>检索</value>
+      <webElementGuid>6c758060-7ee9-4b47-93d3-db1373783658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;complexQuery&quot;)/div[@class=&quot;panel panel-htop easyui-fluid&quot;]/div[@class=&quot;easyui-panel panel-body panel-body-noheader&quot;]/button[@class=&quot;btn btn-default pull-right btn-sm&quot;]</value>
+      <webElementGuid>d92290b7-a2e6-4790-b941-6dc590a093d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>c424a103-dff8-4cd0-9f2d-fa2ba83b2fa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='complexQuery']/div/div/button[2]</value>
+      <webElementGuid>2d6ea695-30b8-409f-856a-4417b946ee76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='关闭'])[1]/following::button[1]</value>
+      <webElementGuid>d20cedfd-63be-4703-b45c-6de523797bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='公司代码'])[1]/following::button[2]</value>
+      <webElementGuid>f1df2d10-1fb7-47dd-8ddf-b38a566252c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='已选数据'])[1]/preceding::button[1]</value>
+      <webElementGuid>598a6043-87da-4611-8bda-1b76fbb0a193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='全部删除'])[1]/preceding::button[1]</value>
+      <webElementGuid>854e876d-17ac-46ea-940e-cb67caf9e5bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='检索']/parent::*</value>
+      <webElementGuid>fa6c6bf4-faf1-4a0c-8546-ac3f8d051b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/button[2]</value>
+      <webElementGuid>93862ab0-0620-48e1-b89e-c4815e59d933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '检索' or . = '检索')]</value>
+      <webElementGuid>16248b2c-5d79-4e16-9357-7cb18495c7ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_isframecontract_yes_deatilpage</name>
+   <tag></tag>
+   <elementGuidId>57828d5a-d9e5-4455-9e19-64b53c3e493e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='addForm']/div[2]/div[2]/div[2]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;IsFrameContract&quot;] > span.radiobutton.inputbox.radiobutton-disabled > span.radiobutton-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3c77bfa-ccc8-4ce5-b89c-cb360adc3f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobutton-inner</value>
+      <webElementGuid>9d87dd1a-2def-4394-8b13-c3fa6a3facb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addForm&quot;)/div[@class=&quot;panel panel-htop easyui-fluid&quot;]/div[@class=&quot;easyui-panel panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/span[@class=&quot;radiobutton inputbox radiobutton-disabled&quot;]/span[@class=&quot;radiobutton-inner&quot;]</value>
+      <webElementGuid>995d2520-b2be-4bdc-be88-d68080e2b93d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addForm']/div[2]/div[2]/div[2]/div/span/span</value>
+      <webElementGuid>bdcaa2fa-9cce-4f9f-9f05-262ddfa0f368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span</value>
+      <webElementGuid>8f8837c8-7a92-4f89-b8f3-bdd5f8ab8405</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

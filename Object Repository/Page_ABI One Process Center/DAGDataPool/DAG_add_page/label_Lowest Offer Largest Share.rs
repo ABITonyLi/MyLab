@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Lowest Offer Largest Share</name>
+   <tag></tag>
+   <elementGuidId>f2f17c31-ef0f-40c0-904f-422965e565b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='daginfo']/div[10]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.koreaHidden > label.control-label.col-md-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>48946743-9c45-4624-ad71-f7ce50e9c36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label col-md-2</value>
+      <webElementGuid>2f5f8d0f-2bf6-4c3e-960c-bbfb6d1f4deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>T_LOWES_BID_CODE</value>
+      <webElementGuid>cf7477ff-ae4a-476d-8685-dff0cfd732fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-i18n-text</name>
+      <type>Main</type>
+      <value>T_LOWES_BID</value>
+      <webElementGuid>3609fc8d-286c-40d5-9626-a0d335d808c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>最低价最大份额</value>
+      <webElementGuid>89c3ca59-0dfa-4712-9f51-799135d97526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;daginfo&quot;)/div[@class=&quot;row koreaHidden&quot;]/label[@class=&quot;control-label col-md-2&quot;]</value>
+      <webElementGuid>e4e1ecb6-1393-437d-80d2-745152b788fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/iframe__ifm_1</value>
+      <webElementGuid>fada485a-3b77-437c-af73-f227fe8f5955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='daginfo']/div[10]/label</value>
+      <webElementGuid>4dfed1f6-a3f5-4489-a471-69fd443d8a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::label[1]</value>
+      <webElementGuid>d1d6a444-bbf7-4a65-a7ec-0dc64e8cd32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='币种'])[1]/following::label[1]</value>
+      <webElementGuid>6360656a-3384-4c68-9d7e-21432237885a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='如是请选择'])[1]/preceding::label[1]</value>
+      <webElementGuid>e361707d-00a7-4f78-8db5-3a0a48fd4a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/preceding::label[2]</value>
+      <webElementGuid>068de8d7-3ed7-479d-bb59-b0e920e18234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='最低价最大份额']/parent::*</value>
+      <webElementGuid>725ebece-1ad7-4328-9bae-f838da2cdf7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/label</value>
+      <webElementGuid>6a5b8738-8114-4cbc-9b3d-09c900fae659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '最低价最大份额' or . = '最低价最大份额')]</value>
+      <webElementGuid>1b79cea0-bc9e-442e-b621-ff02e2a2d6b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

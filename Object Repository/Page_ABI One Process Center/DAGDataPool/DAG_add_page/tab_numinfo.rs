@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_numinfo</name>
+   <tag></tag>
+   <elementGuidId>25522406-2dc8-4654-a863-37546cdaa126</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.tabs-selected > a.tabs-inner > span.tabs-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabs']/div/div[3]/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66ae3898-8e6d-4275-9035-58fbc6a541a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tabs-title</value>
+      <webElementGuid>3e72760b-c62f-497b-b051-c07b5ff161eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>条目数信息</value>
+      <webElementGuid>081a715e-2c74-4142-bad5-64203580c540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs&quot;)/div[@class=&quot;tabs-header tabs-header-noborder&quot;]/div[@class=&quot;tabs-wrap&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;tabs-selected&quot;]/a[@class=&quot;tabs-inner&quot;]/span[@class=&quot;tabs-title&quot;]</value>
+      <webElementGuid>2eb6f243-7ead-4954-9a62-6fa6564911c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/iframe__ifm_1</value>
+      <webElementGuid>25b1eae6-6730-4ab8-95bb-f4fad359ee33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs']/div/div[3]/ul/li[2]/a/span</value>
+      <webElementGuid>e45c0b24-1b4b-490f-8e1d-cc4f01e4a6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG信息'])[1]/following::span[2]</value>
+      <webElementGuid>c727391b-517d-4a16-83f1-bfd88bfd4914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='招标文件'])[1]/preceding::span[2]</value>
+      <webElementGuid>971aed04-44ea-4deb-8278-83aef15c318b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG_ID'])[1]/preceding::span[4]</value>
+      <webElementGuid>6a3c15c1-b018-4047-9fab-f91d4f28bb0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='条目数信息']/parent::*</value>
+      <webElementGuid>6abf535b-cca5-4ddc-81d5-462b6b68e986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>0bd7c2b0-51ef-4091-b78b-ef79730ac092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '条目数信息' or . = '条目数信息')]</value>
+      <webElementGuid>a49f6e4f-834a-488c-9552-00c5ce39af30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

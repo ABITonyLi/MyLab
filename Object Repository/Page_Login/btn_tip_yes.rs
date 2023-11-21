@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_tip_yes</name>
+   <tag></tag>
+   <elementGuidId>46eb3e4f-888f-4e11-9ee6-3b80f5a17cef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='否'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>453a970b-6e10-4b25-a005-b95961ff5baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tips-btn tips-btn-confirm </value>
+      <webElementGuid>5f0fe7c1-1ddc-47d8-8d9c-6ca6585d583d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>是</value>
+      <webElementGuid>b5e069e0-1182-44e5-9207-01a36a679982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;tips tips-open  tips-modal&quot;]/div[@class=&quot;tips-content&quot;]/div[@class=&quot;tips-content-ft side&quot;]/button[@class=&quot;tips-btn tips-btn-confirm&quot;]</value>
+      <webElementGuid>047d3ef5-8172-4f62-a8ba-17b278954e37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='否'])[1]/following::button[1]</value>
+      <webElementGuid>c64a71c7-a98b-4cdf-becb-8f0ae9f0471a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='已在其它机器上登录，是否强制登录？'])[1]/following::button[2]</value>
+      <webElementGuid>23c9f8ab-0b9a-4f17-bab6-4e0bd9bc91dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='是']/parent::*</value>
+      <webElementGuid>472aa845-75e2-4934-8761-b0f54249df4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>8dcdcdb9-2e76-4744-b282-658a20931da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '是' or . = '是')]</value>
+      <webElementGuid>f5af51eb-2606-49da-9b8f-d34284ef36ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

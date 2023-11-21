@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_contracttransfer_confirm</name>
+   <tag></tag>
+   <elementGuidId>888d3f1d-8c61-4cf3-b7c5-3492430e4093</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='提交成功'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.l-btn.l-btn-small.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b63c51d2-74e3-400c-84d3-6411ab1a78b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l-btn-text</value>
+      <webElementGuid>cf412906-a947-4687-906d-884f3488911a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>确定</value>
+      <webElementGuid>708b13e4-7f06-4317-94ca-49624e492494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop messager-window&quot;]/div[@class=&quot;dialog-button messager-button&quot;]/a[@class=&quot;l-btn l-btn-small l-btn-focus&quot;]/span[@class=&quot;l-btn-left&quot;]/span[@class=&quot;l-btn-text&quot;]</value>
+      <webElementGuid>4593da6b-bfc9-421b-8248-55b45c4e6eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/ContractTransfer_page/iframe__ifm</value>
+      <webElementGuid>43f9feea-f6a3-4712-8c59-079d172ca6f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交成功'])[1]/following::span[2]</value>
+      <webElementGuid>4928759f-ac98-4d61-b53d-34d304a5d4ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[2]/following::span[2]</value>
+      <webElementGuid>b7d4dc27-a9b9-43ee-aa36-2e2802277e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='确定']/parent::*</value>
+      <webElementGuid>e7610a4c-5fb5-4e3d-ab41-9bec2c5996d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span/span</value>
+      <webElementGuid>6bb6995d-ff46-4807-9cee-8b68c857dd92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '确定' or . = '确定')]</value>
+      <webElementGuid>731bdabf-0813-4fc8-b36e-2995fd0be62b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

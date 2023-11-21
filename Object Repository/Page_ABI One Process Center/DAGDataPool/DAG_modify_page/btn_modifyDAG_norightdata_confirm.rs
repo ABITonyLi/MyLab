@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_modifyDAG_norightdata_confirm</name>
+   <tag></tag>
+   <elementGuidId>05d0255d-b4e0-46ad-87a5-afa22dd72e2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='该dag数据中的全部合同条目都是签署中状态无法编辑及变更!'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.l-btn.l-btn-small.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a3cea9d-9028-43f4-b32b-203a473aee6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l-btn-text</value>
+      <webElementGuid>162bbb5c-5f72-47ec-a8f2-b35b7ccbb4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>确定</value>
+      <webElementGuid>269d6968-2e3d-431b-a0b5-6f7e90f016ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop messager-window&quot;]/div[@class=&quot;dialog-button messager-button&quot;]/a[@class=&quot;l-btn l-btn-small l-btn-focus&quot;]/span[@class=&quot;l-btn-left&quot;]/span[@class=&quot;l-btn-text&quot;]</value>
+      <webElementGuid>d0e21b4f-d030-4261-9015-b10b3494ec43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/iframe__ifm</value>
+      <webElementGuid>98e1d821-8f0c-4a84-a7a7-e484d9456da8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='该dag数据中的全部合同条目都是签署中状态无法编辑及变更!'])[1]/following::span[2]</value>
+      <webElementGuid>0c415aea-fdd8-4231-a7c4-6936a6960956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[2]/following::span[2]</value>
+      <webElementGuid>4a570bdc-4a2d-4e27-a19d-c6ccb295362d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='确定']/parent::*</value>
+      <webElementGuid>27650274-929f-47c3-a18f-680be3b17d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span/span</value>
+      <webElementGuid>dea2ca92-0a86-4bff-a4e3-e61d1f8c9bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '确定' or . = '确定')]</value>
+      <webElementGuid>c2667bca-d1e3-41e8-94b8-a744dddf1a1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

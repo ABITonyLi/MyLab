@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_appliedtask</name>
+   <tag></tag>
+   <elementGuidId>912f2cc2-4a04-45db-9ae9-3cfc5d989b5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ulPageSidebarMenu']/li[3]/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.sub-menu > li:nth-of-type(2) > a > span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4fe1a6f2-8b23-4a7e-84bb-ae7ee28de851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>7c9198fe-4930-4951-991f-9288421c6039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>已申请任务</value>
+      <webElementGuid>1ef64bd2-a4ef-46d5-8de9-f3d4998af683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ulPageSidebarMenu&quot;)/li[@class=&quot;open slt&quot;]/ul[@class=&quot;sub-menu&quot;]/li[2]/a[1]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>fc70d400-44b2-4606-9b21-d266f303a4fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ulPageSidebarMenu']/li[3]/ul/li[2]/a/span</value>
+      <webElementGuid>c60d00ad-73a8-419d-8299-7b2bce66405c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='待处理任务'])[1]/following::span[2]</value>
+      <webElementGuid>aafdb181-b2ca-4673-93b5-1208bd598c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='我的任务'])[1]/following::span[6]</value>
+      <webElementGuid>2ee96fa8-8c82-467d-82d1-669498fd52c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='已处理任务'])[1]/preceding::span[1]</value>
+      <webElementGuid>8b9060d7-86c0-4075-ad17-49042c4585f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='草稿箱'])[1]/preceding::span[2]</value>
+      <webElementGuid>4b8b67e6-44d6-4e5a-9792-adfb791c1679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='已申请任务']/parent::*</value>
+      <webElementGuid>fb8281c1-c7a7-4b7f-a723-9be765445a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a/span</value>
+      <webElementGuid>3eb3c390-749b-4e6f-b069-825b2b082dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '已申请任务' or . = '已申请任务')]</value>
+      <webElementGuid>db7d704a-8c2b-4efc-bc8b-0657ea285af3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

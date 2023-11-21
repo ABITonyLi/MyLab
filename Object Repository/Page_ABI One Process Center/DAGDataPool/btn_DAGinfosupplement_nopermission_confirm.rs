@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_DAGinfosupplement_nopermission_confirm</name>
+   <tag></tag>
+   <elementGuidId>ee288a31-4b6e-4c4d-97dd-597d6535e001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.l-btn.l-btn-small.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='您没有操作权限'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4cc24fff-3cbd-41bd-8293-f7530e1aaa25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l-btn-text</value>
+      <webElementGuid>53c0285c-a96f-4370-8fcb-88d5058b4a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>确定</value>
+      <webElementGuid>282c09b0-a9b8-4fb3-a562-96affa89142b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop messager-window&quot;]/div[@class=&quot;dialog-button messager-button&quot;]/a[@class=&quot;l-btn l-btn-small l-btn-focus&quot;]/span[@class=&quot;l-btn-left&quot;]/span[@class=&quot;l-btn-text&quot;]</value>
+      <webElementGuid>4cc045d7-2302-4011-bb2b-7aec52cb4944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>3d77e8ca-b2a2-49e9-a9f5-a6202a7ef76d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='您没有操作权限'])[1]/following::span[2]</value>
+      <webElementGuid>93b53bac-c1a0-47d5-9785-46ab2d9b665c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[2]/following::span[2]</value>
+      <webElementGuid>d4bef36a-5820-4593-8b1f-b2e136f5f6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='确定']/parent::*</value>
+      <webElementGuid>ad36ce24-0844-4c1b-8c23-f9ec85167c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span/span</value>
+      <webElementGuid>6d1876dc-4f76-41d1-86bc-43aed2d1d954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '确定' or . = '确定')]</value>
+      <webElementGuid>de6a9985-e901-4bf1-ad5a-c4850cc56f5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

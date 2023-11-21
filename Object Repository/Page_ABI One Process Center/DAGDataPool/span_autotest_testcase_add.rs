@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_autotest_testcase_add</name>
+   <tag></tag>
+   <elementGuidId>8f28a1c6-3c84-41f7-8e32-8aaa53b2ddb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.remark.tooltip-f</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='DAGGrid_datagrid-row-r1-2-0']/td[6]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>155fccf2-7572-4ca7-b989-4bba82a8c6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>remark tooltip-f</value>
+      <webElementGuid>590f373a-1086-4299-ad25-b3f8fba72bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>autotest_testcase_add</value>
+      <webElementGuid>6c219ef7-4ddd-49e4-b47b-ce3e766f3ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DAGGrid_datagrid-row-r1-2-0&quot;)/td[6]/div[@class=&quot;datagrid-cell DAGGrid_datagrid-cell-c1-T_DAG_DESCRIBE&quot;]/span[@class=&quot;remark tooltip-f&quot;]</value>
+      <webElementGuid>1741d0f0-3134-492a-82c1-de7a1b94b368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>e8825cac-5b0f-4ba7-a270-6ba3a6facb00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='DAGGrid_datagrid-row-r1-2-0']/td[6]/div/span</value>
+      <webElementGuid>6f0b357f-24cc-438a-9307-58b01baa0947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG-COM-20231113-002M'])[1]/following::span[1]</value>
+      <webElementGuid>1a6be18f-5d9c-4956-b91b-532b8591b720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a756cb9c-6bed-4199-9b02-af518b48e94c'])[1]/following::span[1]</value>
+      <webElementGuid>711d1e4b-4578-4cee-87b9-147dd2ed1a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='杨云玖'])[1]/preceding::span[1]</value>
+      <webElementGuid>ef2f48c3-35f7-49db-919d-007e11e2bbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EOM'])[1]/preceding::span[1]</value>
+      <webElementGuid>0bb1e0c9-d585-4cf3-b48d-9f1c3062856e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='autotest_testcase_add']/parent::*</value>
+      <webElementGuid>d8b5e679-a56a-4f48-9eb8-2dfdc1e6e61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[6]/div/span</value>
+      <webElementGuid>12babff5-b808-47b3-aefc-1514ed7d5d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'autotest_testcase_add' or . = 'autotest_testcase_add')]</value>
+      <webElementGuid>dc5fe4d2-7429-40a5-a5e1-9aac48241087</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

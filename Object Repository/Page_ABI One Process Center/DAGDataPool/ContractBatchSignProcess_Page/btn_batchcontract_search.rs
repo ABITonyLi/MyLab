@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_batchcontract_search</name>
+   <tag></tag>
+   <elementGuidId>afd69258-c207-4219-b3c2-ae9f789cc269</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MCLSearchToolBar']/div/div/span/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.btnSearch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d86933f0-232a-434e-b026-ec0d3d211a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btnSearch</value>
+      <webElementGuid>879baac7-2aab-4203-9f64-fd3ee58dc228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MCLSearchToolBar&quot;)/div[@class=&quot;tbBeforeBox row&quot;]/div[@class=&quot;input-group pull-right group searchBox input-group-sm&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default btnSearch&quot;]</value>
+      <webElementGuid>24c57024-bd62-4457-869b-da8f8ff6a006</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MCLSearchToolBar']/div/div/span/button</value>
+      <webElementGuid>a51841ca-2f3b-4610-8fb4-a527c46cb36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>ec280a54-8f87-49a3-8164-d8d318393b07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tip_DAGinfosupplement_nopermission</name>
+   <tag></tag>
+   <elementGuidId>f50db9d2-f458-4015-90fd-659c71ecd044</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.messager-body.panel-body.panel-body-noborder.window-body > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[2]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e632e1fa-be0c-464f-9882-fa5943d33e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>您没有操作权限</value>
+      <webElementGuid>4c0b9b09-3bea-4217-a7c9-95985ad5f4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop messager-window&quot;]/div[@class=&quot;messager-body panel-body panel-body-noborder window-body&quot;]/div[2]</value>
+      <webElementGuid>c96ccccb-f3e8-4e56-b85b-009c0fd6ff58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>92a0a998-e41b-414f-ba85-6d5caec0d8d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[2]/following::div[4]</value>
+      <webElementGuid>c187f0d2-1ec4-4d91-a0db-165bd7313f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='显示1到1,共1记录'])[1]/following::div[23]</value>
+      <webElementGuid>c7774b67-1f13-48d5-8fc2-4a2e061f9e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='确定'])[1]/preceding::div[2]</value>
+      <webElementGuid>3971273b-0950-49b9-96c6-bba19d2b65fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='您没有操作权限']/parent::*</value>
+      <webElementGuid>5fcf4708-ac41-43d7-9450-d2f287580fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div[2]</value>
+      <webElementGuid>d0de2c61-d8c8-4fc1-96f9-53b108be2594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '您没有操作权限' or . = '您没有操作权限')]</value>
+      <webElementGuid>136c7d4e-390a-41ba-930d-84a37a4740d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

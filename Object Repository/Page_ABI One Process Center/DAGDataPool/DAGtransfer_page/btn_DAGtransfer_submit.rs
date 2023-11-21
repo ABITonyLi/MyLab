@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_DAGtransfer_submit</name>
+   <tag></tag>
+   <elementGuidId>935e89b2-f69e-4142-96c2-05a6256800fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG负责人转交'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.l-btn.l-btn-small.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2800e868-ef4f-4e4a-a536-a2fa2ae70ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l-btn-text</value>
+      <webElementGuid>2a061b06-4756-437c-b9ad-adbecdd6d9d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>提交</value>
+      <webElementGuid>8b0b43e3-7df3-4e3c-b75b-c9dcded84cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop easyui-fluid&quot;]/div[@class=&quot;dialog-button&quot;]/a[@class=&quot;l-btn l-btn-small l-btn-focus&quot;]/span[@class=&quot;l-btn-left&quot;]/span[@class=&quot;l-btn-text&quot;]</value>
+      <webElementGuid>1869d608-bbbe-4bf6-a6df-3aae54729db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAGtransfer_page/iframe__ifm</value>
+      <webElementGuid>5d1c7492-8be2-4379-b1dd-b8b4f66213d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG负责人转交'])[1]/following::span[2]</value>
+      <webElementGuid>2478f2f4-8e9e-4647-a496-1a2e2532e7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='显示1到10,共169记录'])[1]/following::span[3]</value>
+      <webElementGuid>0e4afd59-f010-42e5-929a-67452a3f82c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='关闭'])[1]/preceding::span[1]</value>
+      <webElementGuid>f2b371c7-5ad0-45d4-8a94-3f67f50d83e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='提交']/parent::*</value>
+      <webElementGuid>9dc5b415-5d6a-4242-9e7d-46679db3e2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span/span</value>
+      <webElementGuid>250622e0-a8e4-4e77-8261-f3b471417a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '提交' or . = '提交')]</value>
+      <webElementGuid>3553dd9a-9a4a-44ef-96ed-ac377340acf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_DAG_search</name>
+   <tag></tag>
+   <elementGuidId>d5df7355-6cd0-46a8-ab62-48cc7a728953</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchBox']/div[2]/span/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.btnSearch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bd57bff2-fcd6-4af3-815a-8a40709a7d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btnSearch</value>
+      <webElementGuid>853c467b-48ca-4ef1-adca-a410a1ecdaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchBox&quot;)/div[@class=&quot;input-group pull-right group searchBox input-group-sm&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default btnSearch&quot;]</value>
+      <webElementGuid>b28effac-425c-40ea-af7a-6004227bc18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>47b51f0d-8026-4b3c-adde-6e1322c12cfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchBox']/div[2]/span/button</value>
+      <webElementGuid>20a74c59-76fd-4a07-a6d5-4f56f72e2f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>eadd13e2-62cf-4161-bcd9-b749706f1841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

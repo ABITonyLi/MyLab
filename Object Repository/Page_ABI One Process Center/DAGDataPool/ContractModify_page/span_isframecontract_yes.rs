@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_isframecontract_yes</name>
+   <tag></tag>
+   <elementGuidId>029bbec9-c188-4b31-8209-c6c5ae39eb1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='processinfo']/div[4]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1f4d06a-6331-4cda-9c7d-416c5ba162a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobutton inputbox</value>
+      <webElementGuid>5f14d6fb-7119-4d8d-ba39-e95a8fc4b935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;processinfo&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/span[@class=&quot;radiobutton inputbox&quot;]</value>
+      <webElementGuid>e29f068e-aee4-4109-8c7c-87620b0e077b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/ContractModify_page/iframe__ifm_1</value>
+      <webElementGuid>398893ea-2f45-43b7-abaf-e5bb87eaba25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='processinfo']/div[4]/div/span/span</value>
+      <webElementGuid>1ba8629b-10bb-41ca-8fd5-7f83441b8c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是否为框架合同'])[1]/following::span[1]/span</value>
+      <webElementGuid>f2f07341-c473-4e62-a828-a31999a66c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[1]/span</value>
+      <webElementGuid>72cae6d3-d1ba-4c95-85b3-59d6c1e97ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是'])[3]/preceding::span[2]/span</value>
+      <webElementGuid>316b16ef-2eb4-43ec-b6fe-faaae1e93482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='否'])[3]/preceding::span[4]/span</value>
+      <webElementGuid>b5f6ce5b-3b7a-4d1e-983b-c1ce3d4a13cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span/span</value>
+      <webElementGuid>98a35810-bd75-4583-8d35-5d26ce71c1a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
