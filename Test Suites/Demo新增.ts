@@ -19,10 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cca3ee45-6dae-45d4-9668-2fd348f8850c</guid>
+      <guid>efe501f8-94c4-42c0-ab22-806c45285f37</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DAG数据池/Demo/Demo新增-草稿-填写全部必填项 非必填项</testCaseId>
+      <testCaseId>Test Cases/DAG数据池/Demo/Demo已选数据-批量发起合同</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
