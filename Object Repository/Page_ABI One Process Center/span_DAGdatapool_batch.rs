@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DAGdatapool_batch</name>
+   <tag></tag>
+   <elementGuidId>b27dc709-0b02-418c-944e-3d0cca6e9e2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ulPageSidebarMenu']/li[5]/ul/li[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.active.slt > a > span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>264bdfa6-4bf2-4cbb-9cb8-595562e5d5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>6a961a44-9fba-4e37-8b32-a85bc37cf99f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAG数据池（批量）</value>
+      <webElementGuid>af029e0d-fd12-4518-8eec-76bfc449186a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ulPageSidebarMenu&quot;)/li[@class=&quot;open slt&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;active slt&quot;]/a[1]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>afe2968f-423b-4e9c-bf6b-84e43ae6dd94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ulPageSidebarMenu']/li[5]/ul/li[4]/a/span</value>
+      <webElementGuid>7e115420-b555-489e-9cf8-1cd3aff9dc6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG附件报表'])[1]/following::span[1]</value>
+      <webElementGuid>59b34998-cd6e-4a63-b80b-4c8a4d6727c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG看板'])[1]/following::span[2]</value>
+      <webElementGuid>89f0e9c7-6fad-4a86-a217-a736898e7a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='合同签署'])[1]/preceding::span[1]</value>
+      <webElementGuid>f82e2972-4e64-44b1-88c0-ff054facf09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='发起签署'])[1]/preceding::span[3]</value>
+      <webElementGuid>ead91b9c-5fda-4e18-a972-36caae96ad28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DAG数据池（批量）']/parent::*</value>
+      <webElementGuid>5ca6aaf1-2fb6-4ea1-825d-e5245b817889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[4]/a/span</value>
+      <webElementGuid>e8848861-2031-4b1c-a843-33e4d87b33c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DAG数据池（批量）' or . = 'DAG数据池（批量）')]</value>
+      <webElementGuid>b865b03a-fa78-47df-ab6d-b921b4c84f8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

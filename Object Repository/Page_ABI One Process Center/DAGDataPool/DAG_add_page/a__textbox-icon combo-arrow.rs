@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__textbox-icon combo-arrow</name>
+   <tag></tag>
+   <elementGuidId>ff9d5fae-79f2-47e4-ba7a-317789857c6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.textbox.textbox-invalid.combo > span.textbox-addon.textbox-addon-right > a.textbox-icon.combo-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id=&quot;ContractGrid_datagrid-row-r1-2-0&quot;]/td[17]/div/table/tbody/tr/td/span/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>91eb8cf0-1232-4501-a03d-692863aadfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>c10d26a5-52ec-4e7c-b2d0-9607d74cb999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textbox-icon combo-arrow</value>
+      <webElementGuid>170f2879-34a4-4403-b971-434ad20dac99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3a2277cd-5c4d-41f0-a5b4-1b081e65b315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4055e4a5-eea5-449f-a078-0a127acb268c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContractGrid_datagrid-row-r1-2-0&quot;)/td[9]/div[@class=&quot;datagrid-cell ContractGrid_datagrid-cell-c1-T_HIERARCHY_TYPE_CODE datagrid-editable&quot;]/table[1]/tbody[1]/tr[1]/td[1]/span[@class=&quot;textbox textbox-invalid combo&quot;]/span[@class=&quot;textbox-addon textbox-addon-right&quot;]/a[@class=&quot;textbox-icon combo-arrow&quot;]</value>
+      <webElementGuid>c352b943-7546-43cd-ab3e-7f7eb17f64e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/iframe__ifm_1</value>
+      <webElementGuid>dd554541-8512-46ea-829f-edc65e880196</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id=&quot;ContractGrid_datagrid-row-r1-2-0&quot;]/td[17]/div/table/tbody/tr/td/span/span/a</value>
+      <webElementGuid>9884821c-9163-464e-b5ec-fdb911c386da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[22]</value>
+      <webElementGuid>c2a1563a-b3a5-4071-a1d3-5ef907dd958e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>(//td/span/span/a)[4]</value>
+      <webElementGuid>ab307c7f-3a38-4e03-8203-378493fef720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;']</value>
+      <webElementGuid>842920f3-ab6c-4e40-a194-38c250605ae7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

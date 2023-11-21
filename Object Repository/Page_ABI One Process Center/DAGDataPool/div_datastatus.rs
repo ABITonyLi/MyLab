@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_datastatus</name>
+   <tag></tag>
+   <elementGuidId>7f465927-6869-43ee-83ec-61e5f346a222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='DAGGrid_datagrid-row-r1-2-0']/td[26]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DAGGrid_datagrid-row-r1-2-0 > td:nth-of-type(26) > div.datagrid-cell.DAGGrid_datagrid-cell-c1-T_DATA_STATUS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>401c9006-e84c-427b-86ca-7bcdc12b2c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datagrid-cell DAGGrid_datagrid-cell-c1-T_DATA_STATUS</value>
+      <webElementGuid>65c6e7d0-ba22-4c9a-ae69-086e9dc32c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>草稿</value>
+      <webElementGuid>a0a31744-033d-481e-a717-bf5efbf7a14f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DAGGrid_datagrid-row-r1-2-0&quot;)/td[26]/div[@class=&quot;datagrid-cell DAGGrid_datagrid-cell-c1-T_DATA_STATUS&quot;]</value>
+      <webElementGuid>1405906b-e088-4f31-b175-45f2972a64f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>5307b882-ea3f-4ef6-8d95-01b4bb642e2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='DAGGrid_datagrid-row-r1-2-0']/td[26]/div</value>
+      <webElementGuid>6c12e66c-efaf-4e23-936d-1629d164aeb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRAFT'])[1]/following::div[1]</value>
+      <webElementGuid>e941f915-4f23-46ae-9bda-0fd301821fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='手动录入'])[1]/following::div[2]</value>
+      <webElementGuid>df3f1f48-c20d-4afd-8dae-bf9cfa8b2fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[1]/preceding::div[4]</value>
+      <webElementGuid>be481bee-31d9-4ed3-a73b-e844dedb6562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='第'])[1]/preceding::div[12]</value>
+      <webElementGuid>a0422221-d1e0-410b-a262-dd5ade0fa446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='草稿']/parent::*</value>
+      <webElementGuid>7ed15250-fd1d-4019-bc33-0b23f4ea1be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[26]/div</value>
+      <webElementGuid>77a8a45c-73a0-4c38-a310-0ba3c2c049eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '草稿' or . = '草稿')]</value>
+      <webElementGuid>03ce3015-6a81-4e0d-a729-e23c4a2a8206</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

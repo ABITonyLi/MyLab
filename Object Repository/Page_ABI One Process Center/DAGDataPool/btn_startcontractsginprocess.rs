@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_startcontractsginprocess</name>
+   <tag></tag>
+   <elementGuidId>2c38cf46-b5f6-4cbe-a35e-3855ea2b541b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bottom > div.button > div.zl-scrollContentDiv > button.btn.btn-default.btn-sm > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bottom']/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc487a04-71f0-4eb6-bf60-c1e48b2e05fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-i18n-text</name>
+      <type>Main</type>
+      <value>dag_fqhtqslc</value>
+      <webElementGuid>12200004-5220-4a8f-a05d-25b21a783c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>发起合同签署流程</value>
+      <webElementGuid>d2a5ba19-de77-4603-b0ce-ef8f7e309754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bottom&quot;)/div[@class=&quot;button&quot;]/div[@class=&quot;zl-scrollContentDiv&quot;]/button[@class=&quot;btn btn-default btn-sm&quot;]/span[1]</value>
+      <webElementGuid>d65f770d-4c11-4435-982f-db9c70c051ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>cab30d40-d3e8-4e81-a185-2f303ceed997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bottom']/div/div/button/span</value>
+      <webElementGuid>6f03f936-197d-4658-b56f-9425405b9de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG后续功能'])[1]/following::span[1]</value>
+      <webElementGuid>4b4576f3-e636-4b0d-ad71-05bae6d70cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='合同信息修改'])[1]/following::span[2]</value>
+      <webElementGuid>8a11f1f0-71bb-47f6-85dc-519c3eaaec02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='发起合同主数据流程'])[1]/preceding::span[1]</value>
+      <webElementGuid>74f45fdf-d17d-45fd-be5e-e7091ee0aac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='发起CAPEX合同申请流程'])[1]/preceding::span[2]</value>
+      <webElementGuid>878c03b4-db7e-4827-90b8-c17ac2221957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='发起合同签署流程']/parent::*</value>
+      <webElementGuid>1b83bb41-8d25-4f3a-859a-a1bac21e4056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span</value>
+      <webElementGuid>a31d9b8c-f821-41c0-ac3a-46d19a7bb88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '发起合同签署流程' or . = '发起合同签署流程')]</value>
+      <webElementGuid>dae945d9-22b4-412e-ab90-d7622f28824f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

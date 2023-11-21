@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_3 input tax, China</name>
+   <tag></tag>
+   <elementGuidId>dfa68063-ec0e-41eb-bfd9-eca86609a691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#_easyui_combobox_i23_3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_easyui_combobox_i23_3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5c0f3a9-5faf-452e-a3d3-50c8338bdaa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_easyui_combobox_i23_3</value>
+      <webElementGuid>a55b7341-267e-4405-b290-b6c7e8890008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combobox-item combobox-item-hover</value>
+      <webElementGuid>8d429cc6-67ed-4d97-a241-26be5236b2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3% input tax, China</value>
+      <webElementGuid>98ff1304-959b-4762-a829-d847a097f2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_easyui_combobox_i23_3&quot;)</value>
+      <webElementGuid>2beef047-d259-4bf1-8f00-dd5987239197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/iframe__ifm_1</value>
+      <webElementGuid>df8fbd75-3352-4c6d-b89e-b00278d07098</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='_easyui_combobox_i23_3']</value>
+      <webElementGuid>9f9d3a43-0418-4e85-895d-c1a3d2ae93be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='关闭'])[3]/following::div[6]</value>
+      <webElementGuid>e4362c8f-f979-48c8-a482-93ebb2500ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='今天'])[3]/following::div[6]</value>
+      <webElementGuid>c888d495-b1d0-4a8b-99fc-feba5deea068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VAT Input 10%'])[1]/preceding::div[20]</value>
+      <webElementGuid>ff1fafdc-af36-4508-8d45-af26eb983462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import VAT 10%'])[1]/preceding::div[21]</value>
+      <webElementGuid>2c335dd6-9cf8-4795-8ef2-0cfa20183bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3% input tax, China']/parent::*</value>
+      <webElementGuid>e46bc592-918d-4b19-9b07-6b6fe90ff30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[28]/div/div[4]</value>
+      <webElementGuid>17eb0c15-4ef5-428b-8f77-6a0e2a947397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '_easyui_combobox_i23_3' and (text() = '3% input tax, China' or . = '3% input tax, China')]</value>
+      <webElementGuid>e8a8dc92-1ee2-41f8-a6db-cfa45d906d9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

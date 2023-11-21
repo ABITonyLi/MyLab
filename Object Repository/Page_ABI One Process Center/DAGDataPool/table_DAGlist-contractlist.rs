@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_DAGlist-contractlist</name>
+   <tag></tag>
+   <elementGuidId>e1b3e61d-a277-4de0-8a03-25009e3d826a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;DAGGrid_datagrid-row-r2-2-0&quot;)/td[5][count(. | //*[@ref_element = 'Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm']) = count(//*[@ref_element = 'Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DAGGrid_datagrid-row-r2-2-0 > td:nth-of-type(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@id='List']//div[@class='datagrid-view2']/div[@class='datagrid-body']/table)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>df0aee99-261b-444c-8eb5-81de65b86b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>field</name>
+      <type>Main</type>
+      <value>T_SOURCE_DAG_NUMBER</value>
+      <webElementGuid>6b3bf412-9630-46a4-b112-198aedc26935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DAGGrid_datagrid-row-r2-2-0&quot;)/td[5]</value>
+      <webElementGuid>ecc68c85-9331-4906-9698-803955019540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/iframe__ifm</value>
+      <webElementGuid>92a6c53a-3a4b-41c2-90c1-82f7506fbd2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//*[@id='List']//div[@class='datagrid-view2']/div[@class='datagrid-body']/table)[2]</value>
+      <webElementGuid>d054ca72-b265-46a1-a0d2-bca9d0becd1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;List&quot;]/div/div/div[1]/div[2]/div[2]/table/tbody/tr[2]/td/div/div/div/div/div/div[1]/div[2]/div[2]/table</value>
+      <webElementGuid>99fd8195-a285-40c4-893d-dca93f7debb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

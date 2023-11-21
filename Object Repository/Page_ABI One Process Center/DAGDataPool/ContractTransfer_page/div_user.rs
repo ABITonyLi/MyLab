@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_user</name>
+   <tag></tag>
+   <elementGuidId>eaf4e5a1-87bb-4c94-a9ce-77f79d9bbb6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='DAG-COM-20231120-002M_datagrid-row-r8-2-0']/td[18]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DAG-COM-20231120-002M_datagrid-row-r8-2-0 > td:nth-of-type(18) > div.datagrid-cell.DAG-COM-20231120-002M_datagrid-cell-c8-T_CONTRA_SIGNER</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37de885c-f304-468b-8201-667a1f486fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datagrid-cell DAG-COM-20231120-002M_datagrid-cell-c8-T_CONTRA_SIGNER</value>
+      <webElementGuid>309641aa-2842-4fc4-a364-38aebd7e13d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>陈正华</value>
+      <webElementGuid>753d0ae6-ff9d-45de-a86d-e9879c3bd2bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DAG-COM-20231120-002M_datagrid-row-r8-2-0&quot;)/td[18]/div[@class=&quot;datagrid-cell DAG-COM-20231120-002M_datagrid-cell-c8-T_CONTRA_SIGNER&quot;]</value>
+      <webElementGuid>55c0b022-c9c3-4c5e-8df3-32f1e5e2c93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/ContractTransfer_page/iframe__ifm</value>
+      <webElementGuid>19cd9213-d6fa-4537-9334-7a677497ede0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='DAG-COM-20231120-002M_datagrid-row-r8-2-0']/td[18]/div</value>
+      <webElementGuid>03a74920-5747-4a6e-ae5b-08af09c74cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='baiwei(xianmen)guanligongsi'])[1]/following::div[1]</value>
+      <webElementGuid>4e513af5-b927-4cee-92d0-e8ba296f5e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='false'])[1]/following::div[3]</value>
+      <webElementGuid>f893f0c3-3e98-4147-ac11-a81fc870b238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CN21'])[1]/preceding::div[5]</value>
+      <webElementGuid>6e4f29a7-df2b-4721-b570-4d566fe15afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='百威（厦门）管理运营有限公司'])[1]/preceding::div[6]</value>
+      <webElementGuid>5196351e-bd92-495c-8127-959927fabff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='陈正华']/parent::*</value>
+      <webElementGuid>cd98c64a-7cd9-4fb7-9eb3-2a5df717b82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/div/div/div/div[2]/div[2]/table/tbody/tr/td[18]/div</value>
+      <webElementGuid>2947e316-c7e8-4886-a5a2-2e0eaf658d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '陈正华' or . = '陈正华')]</value>
+      <webElementGuid>1d941e08-c06b-4005-a61c-91cfcb4c8c1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

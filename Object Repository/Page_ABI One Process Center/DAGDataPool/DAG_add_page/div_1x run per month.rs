@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1x run per month</name>
+   <tag></tag>
+   <elementGuidId>6943832d-4bf9-4e7e-8d2b-aa979f730ddb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#T_PAYMT_RUN_CODE_easyui_combobox_i10_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='T_PAYMT_RUN_CODE_easyui_combobox_i10_1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c2b5a7a7-e616-4560-9a15-55fcf85be964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>T_PAYMT_RUN_CODE_easyui_combobox_i10_1</value>
+      <webElementGuid>ba8be74b-756d-44a2-bdc2-ff642bf9309e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combobox-item combobox-item-hover</value>
+      <webElementGuid>9768e8b8-afd2-460e-8ca0-f3cbf7fb56e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1x run per month</value>
+      <webElementGuid>65fa2c6f-fb4e-492f-9053-8b1a1c093fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;T_PAYMT_RUN_CODE_easyui_combobox_i10_1&quot;)</value>
+      <webElementGuid>8505df35-345f-4e27-a772-c87e691938d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/iframe__ifm_1</value>
+      <webElementGuid>b1e1e09a-2544-4fb1-b479-7d6116576fa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='T_PAYMT_RUN_CODE_easyui_combobox_i10_1']</value>
+      <webElementGuid>532a375d-ee3a-4ad4-aa48-5382963d645f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptional'])[1]/following::div[1]</value>
+      <webElementGuid>708e667e-a2cf-4768-8f0a-9975aa3cbdf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='服务类'])[1]/following::div[4]</value>
+      <webElementGuid>a9eea18f-7f1b-4709-af88-d01ab08c844b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NET'])[1]/preceding::div[1]</value>
+      <webElementGuid>48d4cf46-3393-47d0-9ec0-f8dbd8ae2d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EOM'])[1]/preceding::div[2]</value>
+      <webElementGuid>badefee1-bb2c-4a01-8d29-2fbb07ca21e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1x run per month']/parent::*</value>
+      <webElementGuid>aedf0f5e-efe2-4886-a7d2-41afd24cb2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]</value>
+      <webElementGuid>cc7c8746-dbf2-464e-b8b1-c57705335297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'T_PAYMT_RUN_CODE_easyui_combobox_i10_1' and (text() = '1x run per month' or . = '1x run per month')]</value>
+      <webElementGuid>1c8da5a9-e085-498c-a273-71e05992ec2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
