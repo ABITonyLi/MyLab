@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_autotestV1.0.docx</name>
+   <tag></tag>
+   <elementGuidId>b0034c8a-686f-4a05-aedf-f6f9bb825744</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='ContractMCLChoosedataGrid_datagrid-row-r1-2-0']/td[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ContractMCLChoosedataGrid_datagrid-row-r1-2-0 > td:nth-of-type(3) > div.datagrid-cell.ContractMCLChoosedataGrid_datagrid-cell-c1-T_MCL_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f2f197a-6672-47ab-b462-c69898060967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datagrid-cell ContractMCLChoosedataGrid_datagrid-cell-c1-T_MCL_NAME</value>
+      <webElementGuid>0ba99621-bdc2-40f0-8c5b-8f0801c29860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>autotestV1.0.docx</value>
+      <webElementGuid>588d4a5a-1ee1-4f93-9637-4a946116cc34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContractMCLChoosedataGrid_datagrid-row-r1-2-0&quot;)/td[3]/div[@class=&quot;datagrid-cell ContractMCLChoosedataGrid_datagrid-cell-c1-T_MCL_NAME&quot;]</value>
+      <webElementGuid>8b418b36-d4bc-4bde-8342-28b01f476bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DAGDataPool/ContractBatchSignProcess_Page/iframe__ifmSubjectChooseModel</value>
+      <webElementGuid>96b9c434-70c9-4454-a464-a312f7ba1ffa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ContractMCLChoosedataGrid_datagrid-row-r1-2-0']/td[3]/div</value>
+      <webElementGuid>60a92eaf-3d2a-445b-a1ee-292571cc5c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='技术'])[2]/following::div[1]</value>
+      <webElementGuid>0197db0d-2919-44c6-bf43-a0c0b34dd4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e0dda075-f429-48bb-b8c7-5c661a46911e'])[1]/following::div[2]</value>
+      <webElementGuid>71350c86-1f26-458e-bcc3-c9fa97d34bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V1.0'])[1]/preceding::div[1]</value>
+      <webElementGuid>bbb66a3d-7a8d-4730-9fae-3e5934f64076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='杨显超(28064932)'])[1]/preceding::div[2]</value>
+      <webElementGuid>77cdcc0c-af25-45c4-880b-3e93ecfdd622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='autotestV1.0.docx']/parent::*</value>
+      <webElementGuid>3f7c8a8f-4eb2-42f7-8505-8e76ab2f1a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[3]/div</value>
+      <webElementGuid>2c5eece4-c2a7-4cc1-a521-e7859e1a9965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'autotestV1.0.docx' or . = 'autotestV1.0.docx')]</value>
+      <webElementGuid>9a0aa58b-69e9-4be9-8876-0e83cfff4b87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

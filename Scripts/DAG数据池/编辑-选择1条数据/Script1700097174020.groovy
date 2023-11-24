@@ -38,7 +38,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_ABI One Proces
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_modifyDAG_nopermission_confirm'))
 
-'DAG数据负责人本人,未签署'
+'DAG数据负责人本人,未签署a'
 WebUI.clearText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'))
 
 WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'), 'autotest_add_1条未签署')
@@ -66,10 +66,10 @@ WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDat
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/btn_modifyDAG_close_confirm'))
 
-'DAG数据负责人本人，存在签署中'
+'DAG数据负责人本人，存在签署中b'
 WebUI.clearText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'), 'autotest_add_签署中/已签署')
+WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'), 'autotest_add_未签署/签署中')
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAG_search'))
 
@@ -88,13 +88,13 @@ WebUI.verifyElementHasAttribute(findTestObject('Object Repository/Page_ABI One P
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/tab_numinfo'))
 
 WebUI.verifyElementNotHasAttribute(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/input_contractuser_row1'), 
-    'readonly', 10)
+    'disabled', 10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/btn_modifyDAG_close'))
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/btn_modifyDAG_close_confirm'))
 
-'DAG数据负责人本人，无未签署'
+'DAG数据负责人本人，无未签署c'
 WebUI.clearText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'))
 
 WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'), 'autotest_add_1条签署中')

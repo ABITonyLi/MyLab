@@ -80,9 +80,24 @@ WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDat
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/btn_drafttip_yes'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'), content)
+int i = 10
 
-WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAG_search'))
+while (i) {
+	WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAGdatapool_refresh'))
+
+	WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input_DAG_search'), content)
+
+	WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAG_search'))
+
+	varexistingdata = WebUI.verifyElementPresent(findTestObject('Page_ABI One Process Center/DAGDataPool/div_tip_nodata'),
+			10,FailureHandling.OPTIONAL)
+	
+	if (!varexistingdata) {
+			break
+	}
+	
+	i--
+}
 
 '对表格验证'
 table = findTestObject('Page_ABI One Process Center/DAGDataPool/table_DAGlist')

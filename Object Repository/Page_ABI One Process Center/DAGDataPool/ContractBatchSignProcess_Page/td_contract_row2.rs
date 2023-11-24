@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_contract_row2</name>
+   <tag></tag>
+   <elementGuidId>38e8e172-61b0-4ade-9f13-525fcf3ee605</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='leftgrid_datagrid-row-r1-2-1']/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#leftgrid_datagrid-row-r1-2-1 > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>63aa1b72-0a3d-407b-b522-c20e5af687e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>a80d18ba-39e9-49ee-8918-067841a7f03a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAG-ID: DAG-COM-20231122-001MDAG描述: autotest_add_批量测试合同编号: CON-COM-20231122-002M我方签署实体: 百威投资（中国）有限公司对方签署实体: 百威（厦门）管理运营有限公司更新状态: 已于2023-11-22 15:42:01编辑提交验证: 未验证</value>
+      <webElementGuid>3d98d6ad-368d-4dab-96e8-de0e3f6a5ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftgrid_datagrid-row-r1-2-1&quot;)/td[1]</value>
+      <webElementGuid>ebcb63cb-ad3f-4ceb-86b8-b0e5038fff97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='leftgrid_datagrid-row-r1-2-1']/td</value>
+      <webElementGuid>d3ab84aa-deba-4619-8506-bce9e670c5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交验证:'])[1]/following::td[1]</value>
+      <webElementGuid>50813963-daef-4dd6-979c-282d42d4de1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='更新状态:'])[1]/following::td[1]</value>
+      <webElementGuid>2ee89561-3bda-4755-8cc7-c30aadedaac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>6f0cebbc-b789-41a8-962c-e1857b5f492f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'DAG-ID: DAG-COM-20231122-001MDAG描述: autotest_add_批量测试合同编号: CON-COM-20231122-002M我方签署实体: 百威投资（中国）有限公司对方签署实体: 百威（厦门）管理运营有限公司更新状态: 已于2023-11-22 15:42:01编辑提交验证: 未验证' or . = 'DAG-ID: DAG-COM-20231122-001MDAG描述: autotest_add_批量测试合同编号: CON-COM-20231122-002M我方签署实体: 百威投资（中国）有限公司对方签署实体: 百威（厦门）管理运营有限公司更新状态: 已于2023-11-22 15:42:01编辑提交验证: 未验证')]</value>
+      <webElementGuid>70732f91-ee60-4a3d-91c0-1686e4a3be39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

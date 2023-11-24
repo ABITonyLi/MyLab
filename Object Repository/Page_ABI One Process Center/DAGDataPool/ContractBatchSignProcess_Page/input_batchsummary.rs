@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_batchsummary</name>
+   <tag></tag>
+   <elementGuidId>1ec9798f-65b4-4ecf-89e7-e08d8662a30e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FastAppSummary']/div[2]/div/span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FastAppSummary > div.row > div.col-md-11 > span.textbox.easyui-fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fa7b5731-24a9-4cd4-b873-630e55d9ea7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textbox easyui-fluid</value>
+      <webElementGuid>6981d05f-14d6-4e94-9cf0-c45edb96cd56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FastAppSummary&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-11&quot;]/span[@class=&quot;textbox easyui-fluid&quot;]</value>
+      <webElementGuid>8aff073b-f0bf-437f-aa69-aa46658ceac9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FastAppSummary']/div[2]/div/span/input</value>
+      <webElementGuid>e5a8b33a-3359-454c-b744-f75460210834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='批量发起摘要'])[2]/following::span[1]/input</value>
+      <webElementGuid>bdd2ead7-8e87-4a72-adc0-4105074e8dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[18]/following::span[1]/input</value>
+      <webElementGuid>9ca4685e-9585-4cb3-802a-ce7bc22794b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='关闭'])[2]/preceding::span[1]/input</value>
+      <webElementGuid>84b90809-13bf-44a6-8293-f812f25d8eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交'])[2]/preceding::span[3]/input</value>
+      <webElementGuid>c8ede730-08d0-4643-9fc4-7cf2e5102180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div[2]/div[2]/div/span/input</value>
+      <webElementGuid>cea92427-96b7-4b6a-8165-d052f2ca8d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "4587DB1C3199DB475004D652A6333393",
+  "keywordClasses": [
+    {
+      "name": "util.TimeConversion",
+      "keywordMethods": [
+        {
+          "name": "StringToTimestamp",
+          "parameters": [
+            {
+              "name": "timeString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
