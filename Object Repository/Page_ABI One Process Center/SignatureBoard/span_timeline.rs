@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_timeline</name>
+   <tag></tag>
+   <elementGuidId>4738e939-21cc-4f33-91e9-9930ca4018c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabs']/div/div[3]/ul/li[8]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > a.tabs-inner > span.tabs-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c4ba836-1771-447d-b0e8-9ae919b009d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tabs-title</value>
+      <webElementGuid>8345be7a-a37e-4548-a578-6c40022a82fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>时间轴</value>
+      <webElementGuid>7cda3f35-18ae-4207-9231-095eba895a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs&quot;)/div[@class=&quot;tabs-header tabs-header-noborder&quot;]/div[@class=&quot;tabs-wrap&quot;]/ul[@class=&quot;tabs&quot;]/li[8]/a[@class=&quot;tabs-inner&quot;]/span[@class=&quot;tabs-title&quot;]</value>
+      <webElementGuid>674f1aa1-76b9-439c-aa65-508cc6376572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/SignatureBoard/iframe_ceshi a a a</value>
+      <webElementGuid>0b0449dc-9643-4827-a28e-f46462e39f7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs']/div/div[3]/ul/li[8]/a/span</value>
+      <webElementGuid>2300a655-b4b6-4646-90fa-714a66f4eecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='履行明细'])[1]/following::span[2]</value>
+      <webElementGuid>6fe742af-76e5-49a8-a2ad-12030cefae13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='用印及签订'])[1]/following::span[4]</value>
+      <webElementGuid>f626eeb6-99cd-4c8f-bba4-5c3154778509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG信息'])[1]/preceding::span[2]</value>
+      <webElementGuid>1f18a4f6-64d0-47dc-8240-9a82348b33b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='申请人信息'])[1]/preceding::span[4]</value>
+      <webElementGuid>f6783d2b-ea09-478a-8185-19666b3a3739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='时间轴']/parent::*</value>
+      <webElementGuid>73d2463f-56c0-4d41-ac99-dc56e276ca0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/span</value>
+      <webElementGuid>29e6d203-bc17-4e92-b5b1-77bbfc8b1bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '时间轴' or . = '时间轴')]</value>
+      <webElementGuid>21e77cfa-688f-4951-a4fe-56c62803d3b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

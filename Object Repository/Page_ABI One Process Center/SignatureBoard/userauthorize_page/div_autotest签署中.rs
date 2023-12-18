@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_autotest签署中</name>
+   <tag></tag>
+   <elementGuidId>678bbb92-33d4-4a7b-a2e2-46fea64283ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dataGrid_datagrid-row-r1-2-0 > td:nth-of-type(6) > div.datagrid-cell.dataGrid_datagrid-cell-c1-T_CONTRACT_NAME</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'autotest签署中' or . = 'autotest签署中')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>726f8535-81b0-4095-bbda-3bb4aec24276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datagrid-cell dataGrid_datagrid-cell-c1-T_CONTRACT_NAME</value>
+      <webElementGuid>b9680777-6f3d-435f-8c09-fbce58378276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>autotest签署中</value>
+      <webElementGuid>fb7dc08e-eb4d-4db3-a2f1-7670426d2913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataGrid_datagrid-row-r1-2-0&quot;)/td[6]/div[@class=&quot;datagrid-cell dataGrid_datagrid-cell-c1-T_CONTRACT_NAME&quot;]</value>
+      <webElementGuid>17f209f2-b894-49fe-a69f-c901eff871bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/SignatureBoard/userauthorize_page/iframe__ViewAuthorizationClick</value>
+      <webElementGuid>5de60380-bae7-4f22-a785-463da6384933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='dataGrid_datagrid-row-r1-2-0']/td[6]/div</value>
+      <webElementGuid>76709e89-46e9-46b0-9d09-789c7b54a805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CON-COM-20231120-003M'])[1]/following::div[1]</value>
+      <webElementGuid>28ffe6cd-87d2-4b60-ba5b-1f7eee500d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fa7d7131-0f6a-41f1-90d5-b0c00110a01a'])[1]/following::div[6]</value>
+      <webElementGuid>01c2a3c9-e4be-4f12-8c26-270f7490d520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='独立合同'])[1]/preceding::div[2]</value>
+      <webElementGuid>934f66c3-5a01-44b0-a6bc-a3a210b2dedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CNY'])[1]/preceding::div[4]</value>
+      <webElementGuid>9fcd7e43-165e-4ba4-88e7-b0c9d3c2a497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='autotest签署中']/parent::*</value>
+      <webElementGuid>942baf4f-1c3a-4356-9061-43eb4c735ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[6]/div</value>
+      <webElementGuid>c6cf0622-e3e6-4945-9f11-4cbdfbc9e70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'autotest签署中' or . = 'autotest签署中')]</value>
+      <webElementGuid>1929c38c-cf43-4ff9-a952-d5f941b0e497</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

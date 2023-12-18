@@ -6,12 +6,12 @@
    <elementGuidId>b0034c8a-686f-4a05-aedf-f6f9bb825744</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='ContractMCLChoosedataGrid_datagrid-row-r1-2-0']/td[3]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ContractMCLChoosedataGrid_datagrid-row-r1-2-0 > td:nth-of-type(3) > div.datagrid-cell.ContractMCLChoosedataGrid_datagrid-cell-c1-T_MCL_NAME</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='ContractMCLChoosedataGrid_datagrid-row-r1-2-0']/td[3]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

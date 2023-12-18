@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_internalconsultuser_select</name>
+   <tag></tag>
+   <elementGuidId>77601ebd-cbeb-4ebe-8e69-82fe22695a5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='addForm']/div/div[2]/div[17]/div/span/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.textbox-button.textbox-button-right.l-btn.l-btn-small.easyui-fluid.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2e1a15bb-80f4-49a4-be1b-1969b8516494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l-btn-text</value>
+      <webElementGuid>e1ae7f7f-8001-4b9e-99c8-d947bbc7c45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>选择</value>
+      <webElementGuid>78a4ba4c-ffb4-425e-b250-897dc253203b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addForm&quot;)/div[@class=&quot;panel panel-htop easyui-fluid&quot;]/div[@class=&quot;easyui-panel panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/span[@class=&quot;textbox tagbox easyui-fluid combo textbox-invalid&quot;]/a[@class=&quot;textbox-button textbox-button-right l-btn l-btn-small easyui-fluid l-btn-focus&quot;]/span[@class=&quot;l-btn-left&quot;]/span[@class=&quot;l-btn-text&quot;]</value>
+      <webElementGuid>8046ff38-734f-406d-b02b-721affc98919</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addForm']/div/div[2]/div[17]/div/span/a/span/span</value>
+      <webElementGuid>12463b89-1262-4f8b-96d2-c0ca56c405fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='选择内部磋商人'])[1]/following::span[3]</value>
+      <webElementGuid>921eea87-2eed-44a1-9642-f4ed4d5805b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[16]/following::span[3]</value>
+      <webElementGuid>e12f7d3a-9c0d-432b-a4e3-bf5ace18c8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[17]/preceding::span[1]</value>
+      <webElementGuid>d15c2979-3792-4765-a47b-804fb6d8f34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='法务审核人'])[1]/preceding::span[2]</value>
+      <webElementGuid>25364463-691a-4328-ac24-e584e53ea64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/span/a/span/span</value>
+      <webElementGuid>6db4ac85-dec5-4f88-8f77-c54a7a6bfde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '选择' or . = '选择')]</value>
+      <webElementGuid>2a2f618d-d662-44ec-8131-80f4c20c2244</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>批量发起合同-合同起草-是否生成价格清单附件选择是</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>042eaf66-45d8-4741-8945-b0f912e81ce6</testCaseGuid>
+</TestCaseEntity>

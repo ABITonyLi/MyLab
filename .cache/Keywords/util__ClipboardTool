@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "0F5753E40A270B80B16420790A69BF8F",
+  "keywordClasses": [
+    {
+      "name": "util.ClipboardTool",
+      "keywordMethods": [
+        {
+          "name": "getClipboardString",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

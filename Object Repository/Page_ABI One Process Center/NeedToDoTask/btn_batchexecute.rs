@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_batchexecute</name>
+   <tag></tag>
+   <elementGuidId>d2ae1247-3384-4a5e-8a51-42a4b8aa8e9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form1']/div[3]/div[2]/div/div/div/div/div/span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9463b8f7-8b4c-4d9c-b34c-a8999c9e07d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-sm</value>
+      <webElementGuid>6a010eb3-fa1c-464b-9d68-d1d90a694811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>批量处理</value>
+      <webElementGuid>8dd71181-0b45-4d34-a4e7-1fc770cc0b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;divContent&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;formBg&quot;]/div[@class=&quot;tbContainer container&quot;]/div[@class=&quot;tbBeforeBox row&quot;]/div[@class=&quot;btn-group pull-left toolBox&quot;]/span[@class=&quot;btn btn-default btn-sm&quot;]</value>
+      <webElementGuid>cf848a46-1152-43ce-987d-dbb81d659024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/NeedToDoTask/iframe_concat(id(, , TaskListFram, , ))_TaskListFram</value>
+      <webElementGuid>084d183b-fd80-4edf-8e89-6e3f5a9a8516</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[3]/div[2]/div/div/div/div/div/span[4]</value>
+      <webElementGuid>d0c471ae-ebfb-441f-adf8-9aa383034f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='刷新'])[1]/following::span[1]</value>
+      <webElementGuid>2fafca02-ebad-44d9-b176-44db953edd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='取消实例'])[1]/following::span[2]</value>
+      <webElementGuid>6ba327ac-d187-4182-bba1-4be7a693ce40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='我的待办'])[1]/preceding::span[2]</value>
+      <webElementGuid>95846c80-62b5-409d-a095-b6bb1dbb616f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='操作'])[1]/preceding::span[2]</value>
+      <webElementGuid>1cf22606-b51e-4082-bd6c-cc7c4123fbc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='批量处理']/parent::*</value>
+      <webElementGuid>1937daca-e86c-4407-8db7-322ea0c079c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>849feba5-7816-4ae0-9298-433191fc1a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '批量处理' or . = '批量处理')]</value>
+      <webElementGuid>a9d3d4bb-740c-4c86-9bfb-8e1ab3e402a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

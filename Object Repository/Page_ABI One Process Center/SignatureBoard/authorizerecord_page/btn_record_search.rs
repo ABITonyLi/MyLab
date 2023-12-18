@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_record_search</name>
+   <tag></tag>
+   <elementGuidId>c5e80ee9-4400-4d17-a786-e4925d99f66f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DATASearchToolBar']/div/div[2]/span/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.btnSearch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b418fbbf-ef21-45b6-80c1-638b42fe8111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btnSearch</value>
+      <webElementGuid>4081a50e-727b-4147-b9fa-689cd600fa92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DATASearchToolBar&quot;)/div[@class=&quot;tbBeforeBox row&quot;]/div[@class=&quot;input-group pull-right group searchBox input-group-sm&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default btnSearch&quot;]</value>
+      <webElementGuid>024f78bc-6223-4a47-b901-f694cdcf2b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/SignatureBoard/authorizerecord_page/iframe_-_MultAuthorListFrame</value>
+      <webElementGuid>0f79486f-8505-4583-acfc-3d47ff3efed0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DATASearchToolBar']/div/div[2]/span/button</value>
+      <webElementGuid>be12a160-e602-49fb-addd-992fc4a1aa48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>011096aa-f45b-4c36-a06d-726ba4651671</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

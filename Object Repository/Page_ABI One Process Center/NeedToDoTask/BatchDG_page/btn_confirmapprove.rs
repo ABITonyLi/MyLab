@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_confirmapprove</name>
+   <tag></tag>
+   <elementGuidId>bd2fe95f-dd60-4ba4-b149-11a79d3ef1d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='否'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8fb1839-f013-4977-920f-28cdb85fc232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tips-btn tips-btn-confirm </value>
+      <webElementGuid>3218015f-5e26-4e19-9de6-6baa0cb2163d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>是</value>
+      <webElementGuid>ad9fcd04-d391-4c54-8216-9752aa3d0a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;tips tips-open  tips-modal&quot;]/div[@class=&quot;tips-content&quot;]/div[@class=&quot;tips-content-ft side&quot;]/button[@class=&quot;tips-btn tips-btn-confirm&quot;]</value>
+      <webElementGuid>6811c04a-5b20-48eb-940d-868ab24af0d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='否'])[1]/following::button[1]</value>
+      <webElementGuid>00484a99-fe4e-428b-a27f-e2221302a434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='确认退回'])[1]/following::button[2]</value>
+      <webElementGuid>d550120d-5489-4fcc-8a0a-6d14e1ffe2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button[2]</value>
+      <webElementGuid>f8e5036b-82b2-4d07-847d-24cbe3041b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '是' or . = '是')]</value>
+      <webElementGuid>616a94c3-76cd-4c68-80f6-76211571165e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

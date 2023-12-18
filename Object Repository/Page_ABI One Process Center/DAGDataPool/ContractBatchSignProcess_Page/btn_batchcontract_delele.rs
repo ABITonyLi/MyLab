@@ -6,12 +6,12 @@
    <elementGuidId>4f0a48cb-74cc-4406-a3c4-3756bdb134da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[2]/table/tbody/tr/td/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.cfastclose</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/table/tbody/tr/td/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_contract_seniorsearch</name>
+   <tag></tag>
+   <elementGuidId>640035a1-64a4-46ed-95d2-c6b9a53f5e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DATASearchToolBar']/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.pull-right.btnComplexQuery.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f7389e84-4d06-49e8-adc6-d62e37206f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default pull-right btnComplexQuery btn-sm</value>
+      <webElementGuid>b09724cf-3667-4517-a274-0e601b2bc200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>高级检索</value>
+      <webElementGuid>70431ce6-bcdb-40ef-a707-3b29f2f75f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DATASearchToolBar&quot;)/div[@class=&quot;tbBeforeBox row&quot;]/button[@class=&quot;btn btn-default pull-right btnComplexQuery btn-sm&quot;]</value>
+      <webElementGuid>3dd11581-95eb-4498-bed9-e0d3cecadb4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/SignatureBoard/userauthorize_page/iframe_--28073485_AuthorizationClick</value>
+      <webElementGuid>9c6d5160-c5c8-4cd6-972f-65161bfca0cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DATASearchToolBar']/div/button</value>
+      <webElementGuid>b4bafa57-456e-4680-b489-01e449d016e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG描述'])[1]/preceding::button[2]</value>
+      <webElementGuid>62bc2ac0-12df-436f-a6e7-489d49791ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG描述'])[2]/preceding::button[2]</value>
+      <webElementGuid>0565860e-7c08-4189-add3-78f2c08c61cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='高级检索']/parent::*</value>
+      <webElementGuid>be04008d-642b-4db8-a549-880a54c25596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f38db71f-e90a-4f80-ae50-91e8bf937e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '高级检索' or . = '高级检索')]</value>
+      <webElementGuid>0852db2e-d0d1-4798-bf02-d89bff7324cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

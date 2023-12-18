@@ -6,12 +6,12 @@
    <elementGuidId>63655d4f-a472-4173-82bc-a1574d4cd47a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@name='successalert']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div[name=&quot;successalert&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@name='successalert']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

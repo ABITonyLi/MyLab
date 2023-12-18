@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tip_passothersteps</name>
+   <tag></tag>
+   <elementGuidId>761a7469-9f6c-4506-86e2-6d4e1d746cf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.messager-body.panel-body.panel-body-noborder.window-body > div:nth-of-type(2) > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a184e805-be97-4982-a807-374a4f43d853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>合同编号【CON-COM-20231122-001M,CON-COM-20231122-002M】跳过外部协商进入合同签署前审批环节，请务必确认合同文本已提前与相对方确认完毕，以免签署时发生争议</value>
+      <webElementGuid>23c80fb7-8025-480d-a245-29ac1ae4d75f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop messager-window&quot;]/div[@class=&quot;messager-body panel-body panel-body-noborder window-body&quot;]/div[2]/label[1]</value>
+      <webElementGuid>f65bde7a-7a5f-4fef-9012-e8de05cef045</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::label[1]</value>
+      <webElementGuid>8a5f569d-b0bb-443c-ba24-e90ce2e6faca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='自由上传合同文本'])[1]/following::label[1]</value>
+      <webElementGuid>02b40768-5819-4d74-a4b9-e583ed78b18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='确定'])[1]/preceding::label[1]</value>
+      <webElementGuid>3e593c61-75c4-4e2b-9f8b-338accb54b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='基于合同范本起草'])[2]/preceding::label[1]</value>
+      <webElementGuid>a6d15e74-4494-438f-aa4a-bfead341fabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div[2]/div[2]/label</value>
+      <webElementGuid>c2536b2e-6998-4401-9879-1311ca5f6488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[contains(text(),&quot;跳过外部协商进入合同签署前审批环节，请务必确认合同文本已提前与相对方确认完毕，以免签署时发生争议&quot;)]</value>
+      <webElementGuid>7b92de4a-16f8-4839-85c8-9f552e637a11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

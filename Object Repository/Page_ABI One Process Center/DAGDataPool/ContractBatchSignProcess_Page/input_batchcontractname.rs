@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='_easyui_textbox_input61']</value>
+         <value>//form[@id='addForm']/div/div[2]/div[7]/div/span/input</value>
       </entry>
       <entry>
          <key>CSS</key>

@@ -6,12 +6,12 @@
    <elementGuidId>70a46047-79a3-47fb-915c-79bda5d6ceff</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='合同类型cid'])[1]/following::span[10]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.textbox-button.textbox-button-right.l-btn.l-btn-small.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='合同类型cid'])[1]/following::span[10]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>进入待处理任务</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01465130-4b9e-46fd-a7ad-30f1af4e241b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>806ebf07-d3d1-484f-9bad-fe8cce35b388</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a9b0d44-ec69-406d-b02a-879d5d0a09b8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.username</defaultValue>
+      <description></description>
+      <id>806ebf07-d3d1-484f-9bad-fe8cce35b388</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>6a9b0d44-ec69-406d-b02a-879d5d0a09b8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

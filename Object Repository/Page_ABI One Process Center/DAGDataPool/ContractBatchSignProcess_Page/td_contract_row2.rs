@@ -6,12 +6,12 @@
    <elementGuidId>38e8e172-61b0-4ade-9f13-525fcf3ee605</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='leftgrid_datagrid-row-r1-2-1']/td</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#leftgrid_datagrid-row-r1-2-1 > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='leftgrid_datagrid-row-r1-2-1']/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

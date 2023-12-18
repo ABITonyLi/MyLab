@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_finalconfirm</name>
+   <tag></tag>
+   <elementGuidId>8adc0164-2ef6-476f-9536-24feb291afbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='后台检验盖章关键字是否缺失，如缺失将导致自动签署失败，校验结果请到“我的任务”>>“批量处理日志”>>“盖章关键字检查记录”菜单中查看。'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed0ca320-cca7-4318-b20e-d76ebb4a73e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tips-btn tips-btn-confirm </value>
+      <webElementGuid>65466322-7ef1-4ac3-9e68-592117847671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>确定</value>
+      <webElementGuid>8b290ec6-7e9a-4a6f-b5f2-6255311c682e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;tips tips-open  tips-modal&quot;]/div[@class=&quot;tips-content&quot;]/div[@class=&quot;tips-content-ft&quot;]/button[@class=&quot;tips-btn tips-btn-confirm&quot;]</value>
+      <webElementGuid>ab9b0346-bfa1-44a1-b2c3-b2d2c09b4eae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='后台检验盖章关键字是否缺失，如缺失将导致自动签署失败，校验结果请到“我的任务”>>“批量处理日志”>>“盖章关键字检查记录”菜单中查看。'])[1]/following::button[1]</value>
+      <webElementGuid>1a3aadf7-0a1f-4801-83e4-0073c768709c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::button[1]</value>
+      <webElementGuid>88342721-fe61-4584-ac27-fc4a5c5a7ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='确定']/parent::*</value>
+      <webElementGuid>7acd8b4e-3c79-4f0e-9ed5-7004c52966d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f0c31e47-6d38-4875-bc08-06b23eeca11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '确定' or . = '确定')]</value>
+      <webElementGuid>462a57d2-0d67-4609-99e3-da22df6ddc57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

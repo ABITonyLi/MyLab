@@ -26,15 +26,23 @@ WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGD
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAG_search'))
 
-WebUI.waitForElementClickable(findTestObject('Page_ABI One Process Center/DAGDataPool/span_datagrid-row-expand'), 10)
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/span_datagrid-row-expand'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/span_datagrid-row-expand'))
 
-WebUI.click(findTestObject('Page_ABI One Process Center/DAGDataPool/input__ck-1'))
+WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input__ck-1'))
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/input__ck-2'))
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_batchcontract'))
+
+var_confirmbtn = WebUI.waitForElementPresent(findTestObject('Page_ABI One Process Center/DAGDataPool/tip_changevendorname'), 
+    5)
+
+if (var_confirmbtn == true) {
+    WebUI.click(findTestObject('Page_ABI One Process Center/DAGDataPool/tip_changevendorname_confirm'))
+}
 
 WebUI.switchToWindowTitle('合同签署流程')
 
