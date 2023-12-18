@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_contract_search</name>
+   <tag></tag>
+   <elementGuidId>bbb65e52-2f72-4fb2-8058-a4cfa26b79d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MyTemplateToolBar']/div/div[2]/span/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.btnSearch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2fcba3e8-83aa-430d-b455-28e51fe0e088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btnSearch</value>
+      <webElementGuid>d512c05d-ddfa-4fac-ad8c-d67fc289e3b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MyTemplateToolBar&quot;)/div[@class=&quot;tbBeforeBox row&quot;]/div[@class=&quot;input-group pull-right group searchBox input-group-sm&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default btnSearch&quot;]</value>
+      <webElementGuid>2bdbb6a3-babc-4582-b53e-ac85e556ff40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/SignatureBoard/iframe__ifm</value>
+      <webElementGuid>f407f8be-affd-4894-b5cd-b7be6df3a148</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MyTemplateToolBar']/div/div[2]/span/button</value>
+      <webElementGuid>07a8349a-5252-4ad9-8dc0-f58902c17b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>03783b41-6801-4375-981d-f07bf5fb6574</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

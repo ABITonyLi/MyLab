@@ -6,12 +6,12 @@
    <elementGuidId>98b323e2-39d0-4182-b288-3e5888b34ded</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@type='text']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.form-control.selech</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

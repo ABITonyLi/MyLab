@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>合同签署流程(批量)-是否已有框架合同选择否 合同主体文件起草方式为自由上传合同文本-检查法务审核人选择状态</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>70424</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>d5121c43-921a-4a90-9a2c-38c2768d33d1</testCaseGuid>
+</TestCaseEntity>

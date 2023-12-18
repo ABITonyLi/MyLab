@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>包含:批量起草合同表单中对方经办人批量设置-编辑数据填写正确信息</description>
+   <name>批量起草合同表单-填写全部数据并本页面应用到所有合同后提交</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>70361</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>11ea8555-fe02-469a-a1d4-b1da8f683ec3</testCaseGuid>
+</TestCaseEntity>

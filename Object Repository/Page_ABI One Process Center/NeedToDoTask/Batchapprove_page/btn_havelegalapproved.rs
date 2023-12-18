@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_havelegalapproved</name>
+   <tag></tag>
+   <elementGuidId>bb8fe4b2-1dd9-461d-85e1-30049951e5af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.legalDefault.legalButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '已经过法务审批' or . = '已经过法务审批')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>674417ea-08aa-4dff-81c7-303625eca4ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legalDefault legalButton</value>
+      <webElementGuid>64dd01d3-546d-46c2-bcf9-36d1a01aef84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>key</name>
+      <type>Main</type>
+      <value>1e782afb-c313-4b49-96c7-085179ec5c9d</value>
+      <webElementGuid>8fc699ad-ad09-4233-bc6a-01648cbb8273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>已经过法务审批</value>
+      <webElementGuid>61aee02c-3c85-46d8-a696-3ed219e67c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_1e782afb-c313-4b49-96c7-085179ec5c9d&quot;)/div[@class=&quot;col-md-12 divItemNum&quot;]/span[@class=&quot;legalDefault legalButton&quot;]</value>
+      <webElementGuid>48f63bc0-0507-40cb-9323-a97b1f5b7db8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_1e782afb-c313-4b49-96c7-085179ec5c9d']/div/span[2]</value>
+      <webElementGuid>375fc375-a8cf-4ffe-b505-6a7e414951e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO.0001'])[1]/following::span[1]</value>
+      <webElementGuid>b5d79496-38bb-44dc-b575-1da0d4094835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='共计 1 合同条目,目前已展示 1 条！'])[1]/following::span[2]</value>
+      <webElementGuid>1e4ce7ad-1ba4-4c32-b383-d7e5a01241cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='申请人'])[1]/preceding::span[3]</value>
+      <webElementGuid>8889613f-9f9d-469a-9e95-711ce514cc57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='杨云玖'])[1]/preceding::span[3]</value>
+      <webElementGuid>febf78c1-2333-41ef-88b6-d8d1979d64e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='已经过法务审批']/parent::*</value>
+      <webElementGuid>9e664f33-7c0c-4072-aaa8-fa1ad20ddc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>cbc95f33-ddd1-47db-a485-980b1aca40fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '已经过法务审批' or . = '已经过法务审批')]</value>
+      <webElementGuid>0eec5eb7-a82b-4be4-b60a-edef4451772f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

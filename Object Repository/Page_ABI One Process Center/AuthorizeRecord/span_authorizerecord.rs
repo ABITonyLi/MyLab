@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_authorizerecord</name>
+   <tag></tag>
+   <elementGuidId>88bc9b6c-d3ec-4b78-a267-941c71e718f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.open.slt > ul.sub-menu > li:nth-of-type(3) > a > span.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ulPageSidebarMenu']/li[6]/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26d30007-1673-4457-a33e-fe41611a0969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>2f2f4d9b-9410-42e5-a44e-f054829165d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>授权记录</value>
+      <webElementGuid>7f031136-14ab-4f36-a2ca-516efea9cf11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ulPageSidebarMenu&quot;)/li[@class=&quot;open slt&quot;]/ul[@class=&quot;sub-menu&quot;]/li[3]/a[1]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>b46a2055-a0c7-4f1d-b26a-013a314131a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ulPageSidebarMenu']/li[6]/ul/li[3]/a/span</value>
+      <webElementGuid>02fdd4ac-bf59-448e-96c3-7916df8a3192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='签约看板'])[1]/following::span[1]</value>
+      <webElementGuid>50476b9f-0458-4431-8c88-6b99932d2a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='发起签署'])[1]/following::span[2]</value>
+      <webElementGuid>1c037428-26a6-44aa-bb7f-146b290af41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='报表管理'])[1]/preceding::span[1]</value>
+      <webElementGuid>e49329ea-6c76-4bb5-9693-f6024e1ec526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signing Dashboard'])[1]/preceding::span[3]</value>
+      <webElementGuid>ff9c6732-aa9f-4590-84b1-2c54230fe873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='授权记录']/parent::*</value>
+      <webElementGuid>9809ab55-f03b-4217-a823-089d34b7c224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[3]/a/span</value>
+      <webElementGuid>4c421dd4-b2fb-405a-9860-fdf5ce6fd845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '授权记录' or . = '授权记录')]</value>
+      <webElementGuid>41e6644d-9c04-4611-90b0-61cc663bbe15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

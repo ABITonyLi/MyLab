@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>内部磋商批量处理-选择单批次 多批次 所有批次点击 多批次批量审批 按钮</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>70394</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>eecf3b46-b5ad-413d-9829-6a7c8fd98551</testCaseGuid>
+</TestCaseEntity>

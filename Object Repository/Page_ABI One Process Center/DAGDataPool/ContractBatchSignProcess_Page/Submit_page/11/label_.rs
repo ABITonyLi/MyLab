@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_</name>
+   <tag></tag>
+   <elementGuidId>f6ff95a9-d262-4e2a-8fcd-0258101b3214</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.messager-body.panel-body.panel-body-noborder.window-body > div:nth-of-type(2) > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>36fa78cf-297d-4dfe-a8ee-4edc427b48bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>后台校验合同文本关键字，校验结果请到“我的任务”>>“批量处理日志”>>“盖章关键字检查记录”菜单中查看</value>
+      <webElementGuid>cb869144-7422-40e2-b8f0-47511ded011b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop messager-window&quot;]/div[@class=&quot;messager-body panel-body panel-body-noborder window-body&quot;]/div[2]/label[1]</value>
+      <webElementGuid>95c1f919-199e-4d3b-8a2a-855338e19395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::label[1]</value>
+      <webElementGuid>38e51d32-c439-4607-ae02-3e8e6b943a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交'])[3]/following::label[1]</value>
+      <webElementGuid>dbd6a082-a73e-4e74-aedf-7c44d027b458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='确定'])[1]/preceding::label[1]</value>
+      <webElementGuid>60482a28-25f5-4199-aae5-75b7007e713d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='后台校验合同文本关键字，校验结果请到“我的任务”>>“批量处理日志”>>“盖章关键字检查记录”菜单中查看']/parent::*</value>
+      <webElementGuid>6190f29a-d9f1-4dc9-af5e-9fbbb4a190a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div[2]/div[2]/label</value>
+      <webElementGuid>efabd4be-3dbc-4f3c-b914-18a552ceb226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '后台校验合同文本关键字，校验结果请到“我的任务”>>“批量处理日志”>>“盖章关键字检查记录”菜单中查看' or . = '后台校验合同文本关键字，校验结果请到“我的任务”>>“批量处理日志”>>“盖章关键字检查记录”菜单中查看')]</value>
+      <webElementGuid>0232947b-7d77-4a67-8048-3205178220e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

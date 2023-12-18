@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_contractapplycontent_link_2</name>
+   <tag></tag>
+   <elementGuidId>7aea8a99-a422-4465-9d5c-aa39a9b762a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id='sample_1']/tbody/tr/td[4]/div/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ultrawidehide > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43980485-c248-43a3-b622-2c7c8f69ff20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>30af0f9c-024a-41f0-b26d-6e7873ae154e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>autotest外部磋商1701832232-1000.00-2024/11/13-Commercial</value>
+      <webElementGuid>2c1bbfe4-19d3-41cc-835f-4455209a4d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sample_1&quot;)/tbody[@class=&quot;hidden_768&quot;]/tr[1]/td[4]/div[@class=&quot;ultrawidehide&quot;]/a[1]</value>
+      <webElementGuid>73ebd25c-cfa2-4178-bd3b-188b5b30a593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/NeedToDoTask/iframe_concat(id(, , TaskListFram, , ))_TaskListFram</value>
+      <webElementGuid>25c89369-8c3f-4ec3-8179-296084b898ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//table[@id='sample_1']/tbody/tr/td[4]/div/a)[2]</value>
+      <webElementGuid>08e93706-64f2-49c8-a029-4d8c10220a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='我的待办'])[2]/following::a[6]</value>
+      <webElementGuid>bd7f81d0-bdd9-461c-930f-9adbb68a1ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='流程名称'])[2]/following::a[2]</value>
+      <webElementGuid>7681d472-a65d-401d-a744-87c4195eab04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='合同管理流程'])[2]/preceding::a[1]</value>
+      <webElementGuid>9810fc26-4051-495d-9a07-891eb19e637f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tip_nocontent</name>
+   <tag></tag>
+   <elementGuidId>c5b83405-bc6a-410c-9ecc-9afe9b2db614</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.zeroRecordsBox.col-md-12.text-center.bg-warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form1']/div[3]/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c872e670-c574-44ff-8045-0710118198a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zeroRecordsBox col-md-12 text-center bg-warning</value>
+      <webElementGuid>e699214b-1699-45d0-bc11-285f28c4f579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>没有您要查看的内容</value>
+      <webElementGuid>09899d96-3575-4572-a9ab-5db2b66f14af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;divContent&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;formBg&quot;]/div[@class=&quot;tbContainer container&quot;]/div[@class=&quot;tbBox row&quot;]/div[@class=&quot;zeroRecordsBox col-md-12 text-center bg-warning&quot;]</value>
+      <webElementGuid>67b7b8ff-aafc-4aa1-8b3a-53fdff8785e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/DraftBox/iframe_concat(id(, , CGXFram, , ))_CGXFram</value>
+      <webElementGuid>9761e260-8669-4429-aa6e-67da44db3cde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[3]/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>4416069b-d4c0-476b-a010-a71fa84ffc79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='保存时间'])[1]/following::div[1]</value>
+      <webElementGuid>1805bdb9-4308-4cf0-b247-5e2fb1604006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⇐'])[1]/preceding::div[2]</value>
+      <webElementGuid>183167ba-44d4-4024-9a86-144b0414187e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='没有您要查看的内容']/parent::*</value>
+      <webElementGuid>dbcf00c1-fd73-42f1-a90b-71f2ffd9bd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div</value>
+      <webElementGuid>f4ec632d-31ec-42aa-b556-635fbe5b1430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '没有您要查看的内容' or . = '没有您要查看的内容')]</value>
+      <webElementGuid>dface12f-8b08-4c58-93c3-50c030dea81a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

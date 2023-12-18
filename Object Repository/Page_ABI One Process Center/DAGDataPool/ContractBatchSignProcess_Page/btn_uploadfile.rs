@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_uploadfile</name>
+   <tag></tag>
+   <elementGuidId>bfb9ed9d-7427-4f46-9082-89124f030f5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='SubjectFile_datagrid-row-r2-2-0']/td[7]/div/table/tbody/tr/td/span/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.textbox-button.textbox-button-right.l-btn.l-btn-small.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>175ae6a5-7e36-4ad0-b75e-a0e43077105b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l-btn-text</value>
+      <webElementGuid>29ad625d-fe4b-41f0-a80e-3733b6e8cc20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>上传</value>
+      <webElementGuid>d2163778-2d56-4150-a4ad-4ab86e80c358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubjectFile_datagrid-row-r2-2-0&quot;)/td[7]/div[@class=&quot;datagrid-cell SubjectFile_datagrid-cell-c2-T_FILE_NAME datagrid-editable&quot;]/table[1]/tbody[1]/tr[1]/td[1]/span[@class=&quot;textbox textbox-invalid&quot;]/a[@class=&quot;textbox-button textbox-button-right l-btn l-btn-small l-btn-focus&quot;]/span[@class=&quot;l-btn-left&quot;]/span[@class=&quot;l-btn-text&quot;]</value>
+      <webElementGuid>8746fcdd-cf7d-46f0-ae3d-d02311a3a355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='SubjectFile_datagrid-row-r2-2-0']/td[7]/div/table/tbody/tr/td/span/a/span/span</value>
+      <webElementGuid>3b9196a2-7192-4906-bafe-5cabb9e3c5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='合同类型cid'])[1]/following::span[10]</value>
+      <webElementGuid>e2da2bdd-52d8-4906-a609-7292df7bdc84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='合同类型名称'])[1]/following::span[12]</value>
+      <webElementGuid>39b68de0-36a0-4147-aea3-783886b40a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='本模块应用到所有合同'])[4]/preceding::span[14]</value>
+      <webElementGuid>47f6534c-2761-453c-88bd-b9f27da08e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='上传']/parent::*</value>
+      <webElementGuid>38a98ead-cd22-48ba-897a-49385013d6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span/a/span/span</value>
+      <webElementGuid>12ff9fea-7664-4489-bce0-2e6df2dc9e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '上传' or . = '上传')]</value>
+      <webElementGuid>0e2aa883-28b5-4487-a38f-03229ba88bc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

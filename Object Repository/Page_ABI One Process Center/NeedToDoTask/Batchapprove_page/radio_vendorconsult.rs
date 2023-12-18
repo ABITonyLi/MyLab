@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_vendorconsult</name>
+   <tag></tag>
+   <elementGuidId>452739d8-8162-4308-bfef-ca75fdab5e1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='addForm']/div/div[2]/div[16]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb9933d3-5280-4462-af4e-e26f87d72e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobutton inputbox</value>
+      <webElementGuid>2939d6f8-923b-4e74-bb50-62b3e183591c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addForm&quot;)/div[@class=&quot;panel panel-htop easyui-fluid&quot;]/div[@class=&quot;easyui-panel panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-11&quot;]/span[@class=&quot;radiobutton inputbox&quot;]</value>
+      <webElementGuid>bca10087-f0ab-44fe-a7ae-1c79497aafd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addForm']/div/div[2]/div[16]/div/span[2]</value>
+      <webElementGuid>3f78ede1-f141-42b7-a35a-152c6076792a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='内部磋商'])[1]/following::span[1]</value>
+      <webElementGuid>cd35c5eb-9be0-4863-a148-e7fbdcc18a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交到'])[1]/following::span[3]</value>
+      <webElementGuid>b8e7cde3-fa67-4424-927c-d9c32ab42d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='外部磋商'])[1]/preceding::span[2]</value>
+      <webElementGuid>40cdfcf7-b065-42fc-b854-42bdce318a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='直接提交'])[1]/preceding::span[4]</value>
+      <webElementGuid>2f1958f7-a192-44b9-9659-1dfa42a62466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/span[2]</value>
+      <webElementGuid>9a4f53fc-9ab4-469f-bf17-57e7b8334453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>434019c5-336b-45fb-be77-7edb9ff6ad4c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//iframe[@id='ifmSubjectChooseModel']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ifmSubjectChooseModel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@id='ifmSubjectChooseModel']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

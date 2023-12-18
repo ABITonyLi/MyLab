@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_returndraftnode</name>
+   <tag></tag>
+   <elementGuidId>bf4bf9ee-2659-45c2-8733-491b76f19980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='approver']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20e5f6d6-0858-466a-a3f0-b4927f04b777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobutton inputbox</value>
+      <webElementGuid>1f91983d-87b7-41e9-af82-fc4ba5c30be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approver&quot;)/span[@class=&quot;radiobutton inputbox&quot;]</value>
+      <webElementGuid>804cd7aa-530c-446f-a66a-ac3a9a44dd79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='approver']/span[2]</value>
+      <webElementGuid>1bfb2aaa-8863-454e-ac18-00b24921b4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='电子合同签署'])[1]/following::span[1]</value>
+      <webElementGuid>eb19e9fa-b5d6-474f-ae4c-4d33f9b9ce84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交至'])[1]/following::span[3]</value>
+      <webElementGuid>41523bd3-ea41-455c-8b48-70c82b65885d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“合同起草”节点'])[1]/preceding::span[2]</value>
+      <webElementGuid>b1a18589-7c0f-4219-85f0-a1d68c308012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='法务审核人'])[1]/preceding::span[2]</value>
+      <webElementGuid>ba53abff-34e8-4b1c-8d73-fc90579ec0e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/span[2]</value>
+      <webElementGuid>dc58c792-d2b2-4450-bf66-b0ad14d114e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

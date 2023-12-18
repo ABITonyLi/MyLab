@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_dgapprove_reject</name>
+   <tag></tag>
+   <elementGuidId>7252cc18-8ca4-494b-8831-8e5c1a1dd169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formSpjlDiv']/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b0f14eb4-8b66-4ff6-b207-d1161af8de20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobutton inputbox</value>
+      <webElementGuid>b30f934c-d423-49c9-8abf-640125d000f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formSpjlDiv&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/span[@class=&quot;radiobutton inputbox&quot;]</value>
+      <webElementGuid>334bc953-d077-4ab9-8dfc-f8548255d94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/NeedToDoTask/BatchDG_page/iframe__finalDraftApprovalFrame</value>
+      <webElementGuid>6e0edd3b-c000-4649-8706-e942c44d6e0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formSpjlDiv']/div/div/span[2]</value>
+      <webElementGuid>17165af2-5078-4734-8602-709949cf1c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='同意'])[1]/following::span[1]</value>
+      <webElementGuid>6079aba1-040c-44ce-b810-a23969ba0751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交至'])[1]/following::span[3]</value>
+      <webElementGuid>4fc8bed8-580e-4827-9d1b-8ac546a51f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='退回'])[1]/preceding::span[2]</value>
+      <webElementGuid>36f208b1-9698-4466-a36e-457dcb615960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='备注说明'])[1]/preceding::span[2]</value>
+      <webElementGuid>ca3046db-715e-43f1-b0f3-e5b17f086edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>23d14697-5217-43b4-81a0-68949e480457</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

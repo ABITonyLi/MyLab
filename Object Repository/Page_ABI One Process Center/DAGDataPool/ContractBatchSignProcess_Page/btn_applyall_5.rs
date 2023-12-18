@@ -6,12 +6,12 @@
    <elementGuidId>89637d21-a551-4a80-b5f2-c6a99dd7b51f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='btnMoFiveSend']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#btnMoFiveSend</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnMoFiveSend']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

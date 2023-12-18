@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_submitchecking</name>
+   <tag></tag>
+   <elementGuidId>526f2a75-7a50-4d16-9afb-d8113a9249e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(7)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '提交验证: 未验证' or . = '提交验证: 未验证')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b898f074-fb37-4090-8d9a-88ad51cb4334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>提交验证: 未验证</value>
+      <webElementGuid>9ea82cfc-0b6a-41c3-9782-aaaa507819f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftgrid_datagrid-row-r1-2-0&quot;)/td[1]/div[2]/p[7]</value>
+      <webElementGuid>501adcee-caf4-4886-bbe2-0d9fee0c1fe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='leftgrid_datagrid-row-r1-2-0']/td/div[2]/p[7]</value>
+      <webElementGuid>eee77d5b-8bce-4bc6-ab70-3ce9e9124822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='更新状态:'])[1]/following::p[1]</value>
+      <webElementGuid>1cbfb619-6b99-4517-a17c-eaf3d5bc3468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='对方签署实体:'])[1]/following::p[2]</value>
+      <webElementGuid>041e4765-6b32-4a5d-85a5-cb534b01f00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAG-ID:'])[2]/preceding::p[1]</value>
+      <webElementGuid>c5607b28-dd05-441f-8a4f-33d8093e9096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]</value>
+      <webElementGuid>5186a2a8-5a39-4486-865a-163f8f37c7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '提交验证: 未验证' or . = '提交验证: 未验证')]</value>
+      <webElementGuid>89e2b82a-326d-4b7d-b938-0e3b80545ee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

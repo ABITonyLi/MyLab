@@ -6,12 +6,12 @@
    <elementGuidId>6d803c14-d179-495a-bc76-387b3a9a2e42</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::div[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.messager-body.panel-body.panel-body-noborder.window-body > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::div[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

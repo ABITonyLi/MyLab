@@ -6,12 +6,12 @@
    <elementGuidId>afd69258-c207-4219-b3c2-ae9f789cc269</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='MCLSearchToolBar']/div/div/span/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-default.btnSearch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MCLSearchToolBar']/div/div/span/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

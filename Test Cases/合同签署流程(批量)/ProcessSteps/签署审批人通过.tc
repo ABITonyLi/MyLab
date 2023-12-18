@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>签署审批人通过</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5ef4b22-5227-4f78-b2d4-e3c37ec7c7fc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc6748ae-244e-4868-ae85-66d1fae19e56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f428c46-4c62-4dca-bd4a-7644cb731d97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc6748ae-244e-4868-ae85-66d1fae19e56</id>
+      <masked>false</masked>
+      <name>applycontent</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>9f428c46-4c62-4dca-bd4a-7644cb731d97</id>
+      <masked>false</masked>
+      <name>count</name>
+   </variable>
+</TestCaseEntity>

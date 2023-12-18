@@ -6,12 +6,12 @@
    <elementGuidId>275fc0a5-1637-4bf1-83c2-f66f4c629f10</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='关闭'])[3]/following::span[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.l-btn.l-btn-small.l-btn-focus > span.l-btn-left > span.l-btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='关闭'])[3]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

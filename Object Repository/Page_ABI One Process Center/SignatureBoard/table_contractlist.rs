@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_contractlist</name>
+   <tag></tag>
+   <elementGuidId>3b046a98-f740-4f86-82ef-ac156d301fbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='datagrid-view2']/div[@class='datagrid-body']/table</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/div/div[1]/div/div/div[2]/div/div/div/div[1]/div[2]/div[2]/table</value>
+      <webElementGuid>522621a9-7e1f-4d01-9746-154bc0e027f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/SignatureBoard/iframe__ifm</value>
+      <webElementGuid>a75ff533-582b-4ca5-888d-e1b0f5b40c50</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

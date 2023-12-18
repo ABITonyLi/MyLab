@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_priceremark_yes</name>
+   <tag></tag>
+   <elementGuidId>6f13c867-c00e-4cb2-808d-d269b6bb5055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='addForm']/div/div[2]/div[13]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51e9b743-5db2-47c3-a38d-9eb52b657e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobutton inputbox</value>
+      <webElementGuid>a72aed8c-f9d0-49a5-b06b-9a7639cce78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addForm&quot;)/div[@class=&quot;panel panel-htop easyui-fluid&quot;]/div[@class=&quot;easyui-panel panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/span[@class=&quot;radiobutton inputbox&quot;]</value>
+      <webElementGuid>67939535-f82d-4873-a5ac-762e4205fdda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addForm']/div/div[2]/div[13]/div/span</value>
+      <webElementGuid>61eb80ca-624f-475c-8e76-185bb018759f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是否生成价格清单'])[1]/following::span[1]</value>
+      <webElementGuid>0e65fb9b-d7b7-4e7f-91fa-7a5d669c01ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::span[1]</value>
+      <webElementGuid>614e69ab-4c47-4464-be30-b203c9977259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是'])[6]/preceding::span[2]</value>
+      <webElementGuid>1510ef90-b5af-4d75-92a7-b97f177d5ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='否'])[6]/preceding::span[4]</value>
+      <webElementGuid>b8f7e417-f59e-4776-b668-efea0c6931de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/span</value>
+      <webElementGuid>1f22c4bf-628a-4c36-a0b3-38c77287e3c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

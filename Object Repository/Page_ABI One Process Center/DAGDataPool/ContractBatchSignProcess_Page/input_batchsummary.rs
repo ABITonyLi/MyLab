@@ -6,12 +6,12 @@
    <elementGuidId>1ec9798f-65b4-4ecf-89e7-e08d8662a30e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='FastAppSummary']/div[2]/div/span/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#FastAppSummary > div.row > div.col-md-11 > span.textbox.easyui-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FastAppSummary']/div[2]/div/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

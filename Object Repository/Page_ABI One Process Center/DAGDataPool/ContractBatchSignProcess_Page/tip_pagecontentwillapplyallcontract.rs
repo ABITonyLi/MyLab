@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tip_pagecontentwillapplyallcontract</name>
+   <tag></tag>
+   <elementGuidId>03725cdb-fe8b-4fb3-be5c-186921418a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.messager-body.panel-body.panel-body-noborder.window-body > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac0be1fc-49d4-4d67-937b-393e7523c709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>本页面填写的内容会被同步到所有合同，包括合同文件，是否确定执行本页面应用到所有？</value>
+      <webElementGuid>11decea4-7f04-4aba-93f1-dcb51705c4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;panel window panel-htop messager-window&quot;]/div[@class=&quot;messager-body panel-body panel-body-noborder window-body&quot;]/div[2]</value>
+      <webElementGuid>3165f832-923d-4407-ad11-7a987a5a4e85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::div[4]</value>
+      <webElementGuid>87d133cc-2c98-45f3-99da-7d4bd7b797b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='确认'])[1]/following::div[9]</value>
+      <webElementGuid>f6a79a74-3bd6-45d2-a655-163b0df6a95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='确定'])[1]/preceding::div[2]</value>
+      <webElementGuid>cc7e7ad7-d6e1-46b1-ac02-2ac0234ac10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='取消'])[1]/preceding::div[2]</value>
+      <webElementGuid>a5476176-1f28-435b-b029-572254c11c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='本页面填写的内容会被同步到所有合同，包括合同文件，是否确定执行本页面应用到所有？']/parent::*</value>
+      <webElementGuid>b60b510d-4d4e-435c-8488-cc9c36ff37f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div[2]/div[2]</value>
+      <webElementGuid>3b4518c9-7c53-43c5-a2d6-7fbbb4eacded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '本页面填写的内容会被同步到所有合同，包括合同文件，是否确定执行本页面应用到所有？' or . = '本页面填写的内容会被同步到所有合同，包括合同文件，是否确定执行本页面应用到所有？')]</value>
+      <webElementGuid>979e4ce4-c81d-4f3b-8def-5fbcbb28efff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

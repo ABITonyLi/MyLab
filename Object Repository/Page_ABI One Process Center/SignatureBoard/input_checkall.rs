@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_checkall</name>
+   <tag></tag>
+   <elementGuidId>305c662d-840a-4183-b1b2-65c27a09e7a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;checkbox&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eaf3f542-6e25-429b-97bc-c540e5aa1f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>265fea13-36b4-41d7-8285-0e54b1577fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;panel-fit&quot;]/body[@class=&quot;panel-noscroll&quot;]/div[@class=&quot;easyui-layout layout easyui-fluid&quot;]/div[@class=&quot;panel layout-panel layout-panel-center panel-htop&quot;]/div[@class=&quot;panel-body panel-body-noheader layout-body panel-noscroll&quot;]/div[@class=&quot;easyui-layout layout easyui-fluid&quot;]/div[@class=&quot;panel layout-panel layout-panel-center panel-htop&quot;]/div[@class=&quot;panel-body panel-body-noheader layout-body panel-noscroll&quot;]/div[@class=&quot;easyui-layout layout easyui-fluid&quot;]/div[@class=&quot;panel layout-panel layout-panel-center panel-htop&quot;]/div[@class=&quot;panel-body panel-body-noheader layout-body panel-noscroll&quot;]/div[@class=&quot;panel datagrid panel-htop easyui-fluid&quot;]/div[@class=&quot;datagrid-wrap panel-body panel-body-noheader panel-body-noborder&quot;]/div[@class=&quot;datagrid-view&quot;]/div[@class=&quot;datagrid-view1&quot;]/div[@class=&quot;datagrid-header&quot;]/div[@class=&quot;datagrid-header-inner&quot;]/table[@class=&quot;datagrid-htable&quot;]/tbody[1]/tr[@class=&quot;datagrid-header-row&quot;]/td[@class=&quot;datagrid-header-over&quot;]/div[@class=&quot;datagrid-header-check&quot;]/input[1]</value>
+      <webElementGuid>085af291-c95e-49ab-bcb9-39e72e41ca0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ABI One Process Center/SignatureBoard/iframe__ifm</value>
+      <webElementGuid>f0cb3c90-5a75-4a73-a9ce-bf3bb2adbc4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>e0615291-b010-4446-9f82-d1850b24c0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/input</value>
+      <webElementGuid>664bd6c2-a3b0-4bb0-b80b-166164bcc4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>90eaceac-b53d-4fb3-965b-1c163d3182fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

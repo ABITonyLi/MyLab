@@ -29,4 +29,29 @@
       <initValue>'28068600'</initValue>
       <name>DAGusername</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>签署审批人</description>
+      <initValue>'28077170'</initValue>
+      <name>signapprover</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>对方邮箱</description>
+      <initValue>'819411433@qq.com'</initValue>
+      <name>vendoremail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>我方邮箱</description>
+      <initValue>'haifeng.li1@budweiserapac.com'</initValue>
+      <name>ownemail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>内部磋商用户</description>
+      <initValue>'28070491'</initValue>
+      <name>internalconsultuser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>法务</description>
+      <initValue>'28073485'</initValue>
+      <name>legal</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
