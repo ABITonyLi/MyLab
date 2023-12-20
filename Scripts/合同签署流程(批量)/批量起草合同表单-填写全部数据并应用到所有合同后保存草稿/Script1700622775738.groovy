@@ -62,3 +62,4 @@ WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DraftB
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DraftBox/btn_delete_confirm'))
 
 WebUI.closeBrowser()
+

@@ -92,6 +92,8 @@ if (var_confirmbtn == true) {
 
 WebUI.switchToWindowTitle('合同签署流程')
 
+WebUI.waitForPageLoad(60)
+
 //WebUI.waitForPageLoad(30)
 long currenttimestamp = System.currentTimeMillis() / 1000
 
@@ -181,14 +183,15 @@ WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Page_ABI One
 
 WebUI.clearText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/ContractBatchSignProcess_Page/Save_page/textarea_batchsummary'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/ContractBatchSignProcess_Page/Save_page/textarea_batchsummary'),
-	currenttimestamp.toString())
+WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/ContractBatchSignProcess_Page/Save_page/textarea_batchsummary'), 
+    currenttimestamp.toString())
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/ContractBatchSignProcess_Page/span_batchcontract_submit'))
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/ContractBatchSignProcess_Page/btn_save_confirm'))
 
 WebUI.switchToWindowTitle('ABI One Process Center')
+
 '设置返回值'
 Map map = [:]
 
@@ -201,5 +204,4 @@ map.each({ def k, def v ->
     })
 
 return map
-
 
