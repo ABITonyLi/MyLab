@@ -126,6 +126,14 @@ DAG_status = TableColumns[25].text
 assert DAG_status == '草稿'
 
 WebUI.switchToDefaultContent()
+'删除草稿数据'
+WebUI.click(findTestObject('Page_ABI One Process Center/DAGDataPool/input__cb'))
+
+WebUI.click(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_DAGdatapool_delete'))
+
+WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_confirm'))
+
+WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_confirm'))
 
 WebUI.closeBrowser()
 

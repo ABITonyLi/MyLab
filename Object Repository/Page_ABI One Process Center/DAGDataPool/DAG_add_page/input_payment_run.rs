@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='_easyui_textbox_input90']</value>
+         <value>//form[@id='daginfo']/div[8]/div/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4a34e602-5e82-4bba-aa43-3938d82c0812</webElementGuid>
+      <webElementGuid>91bab7c1-7f1c-4615-bb5f-0e839e84cbda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_easyui_textbox_input90</value>
-      <webElementGuid>9dc00bf5-9ca8-46a8-816d-5bbe40ed1b1e</webElementGuid>
+      <webElementGuid>93d7b5f7-f067-4132-a0ee-09b93a79c968</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>165ef13e-b22e-4d7e-bf1e-f5d214fa11ef</webElementGuid>
+      <webElementGuid>d7a9656b-614a-4fd0-8fde-2f8ef715ff9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textbox-text validatebox-text validatebox-readonly validatebox-invalid tooltip-f</value>
-      <webElementGuid>65808c39-3bff-4bdc-bb3b-91d0aa849f3d</webElementGuid>
+      <webElementGuid>311252da-9482-469f-bb44-0a236c126fb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c9c3ced2-d52f-4a90-860d-d3c1500e5908</webElementGuid>
+      <webElementGuid>8e3f9a84-c71d-45c2-a4f6-d9fda6fa588a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_easyui_textbox_input90&quot;)</value>
-      <webElementGuid>bbfbae7b-7ed7-4fbb-8a1b-c70ae6a08b97</webElementGuid>
+      <webElementGuid>521fda03-957f-4291-8dfe-5a9b99226ae2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,15 +70,15 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/iframe__ifm_1</value>
-      <webElementGuid>f95cd17e-8290-4c2d-88a0-ac5d1de4f4eb</webElementGuid>
+      <webElementGuid>848d510f-0683-4750-bbec-1f8f73560584</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='_easyui_textbox_input90']</value>
-      <webElementGuid>cd929ea4-c3b0-4228-aaed-c8f44fafe695</webElementGuid>
+      <value>//input[@id='_easyui_textbox_input92']</value>
+      <webElementGuid>ee598b54-0ca1-4227-8c81-49d7b18a7c32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='daginfo']/div[8]/div/span/input</value>
-      <webElementGuid>21d407e4-1be8-4478-a8ee-1e3593e96855</webElementGuid>
+      <webElementGuid>f2f69381-7ebe-41c6-9ba1-8937af13f5a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/span/input</value>
-      <webElementGuid>d81ef359-d362-4ca7-8dfa-26538389633d</webElementGuid>
+      <webElementGuid>cc443e61-f294-42e9-b5cf-034c3105a1fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = '_easyui_textbox_input90' and @type = 'text']</value>
-      <webElementGuid>eefd11d4-384f-43ac-8575-d89cf3a2e2a6</webElementGuid>
+      <value>//input[@id = '_easyui_textbox_input92' and @type = 'text']</value>
+      <webElementGuid>1e8e3795-e632-4f30-9cdf-469fa0cfad37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

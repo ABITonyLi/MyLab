@@ -286,11 +286,11 @@ WebUI.switchToDefaultContent()
 //WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAG_search'))
 WebUI.click(findTestObject('Page_ABI One Process Center/DAGDataPool/input__cb'))
 
-//WebUI.click(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_DAGdatapool_delete'))
+WebUI.click(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_DAGdatapool_delete'))
 
-//WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_confirm'))
+WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_confirm'))
 
-//WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_confirm'))
+WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_confirm'))
 
 WebUI.closeBrowser()
 
