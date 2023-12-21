@@ -97,6 +97,8 @@ while (i) {
 	}
 	
 	i--
+	
+	WebUI.delay(2)
 }
 
 '对表格验证'

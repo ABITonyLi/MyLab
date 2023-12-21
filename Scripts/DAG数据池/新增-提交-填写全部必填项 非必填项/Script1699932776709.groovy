@@ -161,10 +161,16 @@ WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDat
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input_company'))
 
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input_company_search'), 
+    10)
+
 WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input_company_search'), 
     'CN17')
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/btn_company_search'))
+
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input__ck'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input__ck'))
 
@@ -172,10 +178,16 @@ WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDat
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input_vendor'))
 
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input_vendor_search'), 
+    10)
+
 WebUI.setText(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input_vendor_search'), 
-    'baiwei')
+    '430326')
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/btn_vendor_search'))
+
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input__ck (1)'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/input__ck (1)'))
 
@@ -221,14 +233,16 @@ while (i) {
 
     WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAG_search'))
 
-    varexistingdata = WebUI.verifyElementPresent(findTestObject('Page_ABI One Process Center/DAGDataPool/div_tip_nodata'),
-            10,FailureHandling.OPTIONAL)
-	
-    if (!varexistingdata) {
-            break
+    varexistingdata = WebUI.verifyElementPresent(findTestObject('Page_ABI One Process Center/DAGDataPool/div_tip_nodata'), 
+        10, FailureHandling.OPTIONAL)
+
+    if (!(varexistingdata)) {
+        break
     }
     
     i--
+	
+	WebUI.delay(2)
 }
 
 '对表格验证'
@@ -293,4 +307,5 @@ WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_c
 WebUI.check(findTestObject('Page_ABI One Process Center/DAGDataPool/btn_delete_confirm'))
 
 WebUI.closeBrowser()
+
 

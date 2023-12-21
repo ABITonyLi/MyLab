@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0201ca22-ccd8-413e-82d4-dba1515e881b</webElementGuid>
+      <webElementGuid>19d61dee-e20e-4b11-93c3-e4e85413bbb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_easyui_textbox_input161</value>
-      <webElementGuid>7db1fee0-3458-4ffc-a10d-6ecc48b6d768</webElementGuid>
+      <webElementGuid>2c8f5bc3-a3f1-46df-a514-97abcee6d222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b6430a50-70e1-4ef4-a6d5-25af2a3b5ec0</webElementGuid>
+      <webElementGuid>7275895a-b075-47d6-aae1-1958bbc856b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textbox-text validatebox-text validatebox-readonly validatebox-invalid</value>
-      <webElementGuid>a5df482d-aeee-44c4-8fa7-10a14ce16569</webElementGuid>
+      <webElementGuid>a57c7412-f0c7-4644-b6cd-f65f12f4e1c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a4edcd1c-a1c1-4446-bf33-42ca7e4c7b7a</webElementGuid>
+      <webElementGuid>cd4a8a0b-2714-4602-8347-52bb3bf1932a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_easyui_textbox_input161&quot;)</value>
-      <webElementGuid>2b5df38e-b015-4169-84ac-de99b9be19d9</webElementGuid>
+      <webElementGuid>b90026b3-eb37-4004-b6e6-db06b9bf200d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,15 +70,15 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/iframe__ifm_1</value>
-      <webElementGuid>ed58159b-42a1-408f-904f-682077de3619</webElementGuid>
+      <webElementGuid>f259645c-4a1b-498d-9712-e8fe43e9c242</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='_easyui_textbox_input161']</value>
-      <webElementGuid>451be47d-346a-454c-b956-ffa1d031053a</webElementGuid>
+      <value>//input[@id='_easyui_textbox_input119']</value>
+      <webElementGuid>42ca2592-049b-4eea-b00e-3286778d151b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='ContractGrid_datagrid-row-r1-2-0']/td[11]/div/table/tbody/tr/td/span/input</value>
-      <webElementGuid>68ff8d70-2119-4f37-aec5-676ad2257f6e</webElementGuid>
+      <webElementGuid>7530e060-a208-4158-b500-f1a9f91a847b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[11]/div/table/tbody/tr/td/span/input</value>
-      <webElementGuid>100bb0cb-f450-4c43-8065-d1bb583ea075</webElementGuid>
+      <webElementGuid>5f108767-2b24-4168-b830-dab1240ddb61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = '_easyui_textbox_input161' and @type = 'text']</value>
-      <webElementGuid>7c2ac3b0-7c20-417a-9c3f-3b0c03e5cf14</webElementGuid>
+      <value>//input[@id = '_easyui_textbox_input119' and @type = 'text']</value>
+      <webElementGuid>2028af0d-b067-4c46-9a0a-f6ae9b9ef296</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
