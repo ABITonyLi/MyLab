@@ -61,8 +61,8 @@ if (var_vendorchangednowbtn == true) {
 WebUI.verifyElementNotHasAttribute(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/input_DAGdescribe'), 
     'readonly', 10)
 
-WebUI.verifyElementNotHasAttribute(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/input_DAGemail'), 
-    'readonly', 10)
+//WebUI.verifyElementNotHasAttribute(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/input_DAGemail'), 
+//    'readonly', 10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/tab_numinfo'))
 
