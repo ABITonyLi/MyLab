@@ -51,6 +51,13 @@ WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDat
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAGdatapool_modify'))
 
+var_vendorchangednowbtn = WebUI.waitForElementPresent(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/tip_vendorchangednow'), 5)
+
+if (var_vendorchangednowbtn == true) {
+
+	WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/btn_tip_vendorchangednow_confirm'))
+}
+
 WebUI.verifyElementNotHasAttribute(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/input_DAGdescribe'), 
     'readonly', 10)
 
@@ -60,7 +67,7 @@ WebUI.verifyElementNotHasAttribute(findTestObject('Object Repository/Page_ABI On
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_add_page/tab_numinfo'))
 
 WebUI.verifyElementNotHasAttribute(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/input_contractuser_row1'), 
-    'readonly', 10)
+    'disabled', 10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/btn_modifyDAG_close'))
 
@@ -107,9 +114,11 @@ WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDat
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/btn_DAGdatapool_modify'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/tip_modifyDAG_norightdata'),10)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/tip_modifyDAG_norightdata'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/DAGDataPool/DAG_modify_page/btn_modifyDAG_norightdata_confirm'))
 
 WebUI.closeBrowser()
+
 
