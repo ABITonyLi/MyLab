@@ -77,11 +77,11 @@ assert TableSubRows_All > 0
 
 TableSubColumns = CustomKeywords.'util.WebUICustomKeywords.getHtmlTableColumns'(TableSubRows[0], 'td')
 
-DAG_changestatus = TableSubColumns[12].text
+DAG_changestatus = TableSubColumns[14].text
 
 assert DAG_changestatus == '已变更'
 
-amount = TableSubColumns[20].text
+amount = TableSubColumns[22].text
 
 assert amount == contractprice
 
