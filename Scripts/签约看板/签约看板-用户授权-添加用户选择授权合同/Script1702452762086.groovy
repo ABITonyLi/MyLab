@@ -22,7 +22,7 @@ WebUI.callTestCase(findTestCase('进入签约看板'), [('username') : GlobalVar
 
 WebUI.waitForPageLoad(20)
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/SignatureBoard/userauthorize_page/btn_userauthorize'))
 
@@ -89,16 +89,22 @@ WebUI.delay(2)
 TableRows = CustomKeywords.'util.WebUICustomKeywords.getHtmlTableRows'(table, 'tbody')
 
 TableRows_All = TableRows.size()
+
 '遍历找到正确的批量发起申请'
 int isexist1 = 0
+
 for (int i = 0; i < TableRows_All; i++) {
-	TableColumns = CustomKeywords.'util.WebUICustomKeywords.getHtmlTableColumns'(TableRows[i], 'td')
-	var_contractname = TableColumns[7].text
-	if (var_contractname == 'autotest_测试签署中') {
-		isexist1++
-	} 
+    TableColumns = CustomKeywords.'util.WebUICustomKeywords.getHtmlTableColumns'(TableRows[i], 'td')
+
+    var_contractname = TableColumns[7].text
+
+    if (var_contractname == 'autotest_测试签署中') {
+        isexist1++
+    }
 }
+
 assert isexist1 > 0
+
 WebUI.switchToDefaultContent()
 
 WebUI.clearText(findTestObject('Object Repository/Page_ABI One Process Center/SignatureBoard/input_contract_search'))
@@ -119,21 +125,25 @@ WebUI.delay(2)
 TableRows = CustomKeywords.'util.WebUICustomKeywords.getHtmlTableRows'(table, 'tbody')
 
 TableRows_All = TableRows.size()
+
 '遍历找到正确的批量发起申请'
 int isexist2 = 0
+
 for (int i = 0; i < TableRows_All; i++) {
-	TableColumns = CustomKeywords.'util.WebUICustomKeywords.getHtmlTableColumns'(TableRows[i], 'td')
-	var_contractname = TableColumns[7].text
-	if (var_contractname == 'autotest签署中') {
-		isexist2++
-	} 
+    TableColumns = CustomKeywords.'util.WebUICustomKeywords.getHtmlTableColumns'(TableRows[i], 'td')
+
+    var_contractname = TableColumns[7].text
+
+    if (var_contractname == 'autotest签署中') {
+        isexist2++
+    }
 }
+
 assert isexist2 > 0
+
 WebUI.switchToDefaultContent()
 
-
 //WebUI.click(findTestObject('Object Repository/Page_ABI One Process Center/SignatureBoard/a_contract_autotest1'), FailureHandling.STOP_ON_FAILURE)
-
 //WebUI.waitForPageLoad(20)
-
 WebUI.closeBrowser()
+
