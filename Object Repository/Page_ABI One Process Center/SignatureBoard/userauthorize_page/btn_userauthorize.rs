@@ -6,12 +6,11 @@
    <elementGuidId>5b187dff-e264-4f33-a778-805963e52570</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='MyTempToolBar']/div/div/span[3]/span/span</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='MyTempToolBar']/div/div/span[4]/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a5833861-1698-4441-a6da-ac2efad1e588</webElementGuid>
+      <webElementGuid>0367393a-14f3-4b4e-be26-86867f8de301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>l-btn-text</value>
-      <webElementGuid>905d8d7a-a90b-4c3e-8343-bd576e8b27c5</webElementGuid>
+      <webElementGuid>63b3ed43-4aca-49ac-a3b2-4e04a2ac9084</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>用户授权</value>
-      <webElementGuid>234b421a-335c-4fa3-908c-bd248aac6e19</webElementGuid>
+      <webElementGuid>d6e73ce8-c9eb-4cd1-8c68-f97d6ce7e6b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;MyTempToolBar&quot;)/div[@class=&quot;tbBeforeBox row&quot;]/div[@class=&quot;btn-group pull-left toolBox&quot;]/span[@class=&quot;easyui-linkbutton l-btn l-btn-small&quot;]/span[@class=&quot;l-btn-left&quot;]/span[@class=&quot;l-btn-text&quot;]</value>
-      <webElementGuid>532ebe19-9428-4ead-be95-6d3850e8b252</webElementGuid>
+      <webElementGuid>a613ee87-1a72-4817-b9ef-2acb77b2249b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +53,15 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_ABI One Process Center/SignatureBoard/userauthorize_page/iframe__ifm</value>
-      <webElementGuid>f9d8e14a-3289-4256-90bf-509bc4b035df</webElementGuid>
+      <webElementGuid>e58160ab-76dd-42bf-9e60-df991c02aefd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='MyTempToolBar']/div/div/span[3]/span/span</value>
-      <webElementGuid>d188bd6a-b78b-48fd-a5a0-52c8d3740faf</webElementGuid>
+      <value>//div[@id='MyTempToolBar']/div/div/span[4]/span/span</value>
+      <webElementGuid>76849664-9d75-49b9-ad84-cced9fac47d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='批量授权'])[1]/following::span[3]</value>
-      <webElementGuid>deff37a3-541b-4629-ba91-37a402426935</webElementGuid>
+      <webElementGuid>312b33b8-9cab-43a1-baba-986a7239c383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='导出'])[1]/following::span[6]</value>
-      <webElementGuid>629f9a10-702f-4a19-b243-f8c3bfaf8133</webElementGuid>
+      <webElementGuid>15d30d73-bd9d-4a3f-be4e-819b38e9a7e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='授权记录'])[1]/preceding::span[1]</value>
-      <webElementGuid>6b6b9894-d575-478a-af2b-22dd5e2732da</webElementGuid>
+      <webElementGuid>bf1e059a-4985-40d4-8680-2d3b597f0d16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='全部'])[1]/preceding::span[4]</value>
-      <webElementGuid>05fc2f54-f7dd-4bc0-876a-ae6115e8f3c2</webElementGuid>
+      <webElementGuid>582c599b-5dcd-4600-be8c-fee155cba013</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +101,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='用户授权']/parent::*</value>
-      <webElementGuid>20653a62-e404-455c-a185-8a7b4a9e2a8b</webElementGuid>
+      <webElementGuid>2b7dd47d-f259-442f-8a2f-ec9cbd9baaba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[3]/span/span</value>
-      <webElementGuid>6a69aec5-904f-4419-a90d-8dd3fb217807</webElementGuid>
+      <value>//span[4]/span/span</value>
+      <webElementGuid>394ef510-165e-4bf5-8180-8b724fbbe0d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '用户授权' or . = '用户授权')]</value>
-      <webElementGuid>a3770113-9d5a-4a46-84b4-eb680afa8e90</webElementGuid>
+      <webElementGuid>19cf5ff5-7f1b-45a5-aaa7-a8feece7aa95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
